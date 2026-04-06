@@ -109,7 +109,7 @@ def fetch_premium_ids() -> set[str]:
     try:
         resp = requests.get(PREMIUM_URL, headers=HEADERS, timeout=30)
         resp.raise_for_status()
-        ids = {m.group(1) for m in re.finditer(r'\{\\"productId\\":\\"(\d+)\\"\}', resp.text)}
+        ids = {m.group(1) for m in re.finditer(r'\\"reference\\":\\"(\d+)\\"', resp.text)}
         print(f"  -> {len(ids)} productos en sección Premium")
         if not ids:
             print("     Aviso: ningún productId encontrado en Premium. "
