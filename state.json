@@ -270,16 +270,6 @@
       "image_url": null,
       "url": null
     },
-    "67047691": {
-      "html_price": 11.99,
-      "discountRate": 70.0,
-      "price": 11.99,
-      "originalPrice": 39.99,
-      "notified_rate": 70.0,
-      "name": "Camisa regular fit cuello bowling",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/67047691-99-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/lisas/camisa-regular-fit-cuello-bowling_67047691"
-    },
     "17041221": {
       "html_price": 31.99,
       "discountRate": 20.0,
@@ -289,6 +279,16 @@
       "name": null,
       "image_url": null,
       "url": null
+    },
+    "67047691": {
+      "html_price": 11.99,
+      "discountRate": 70.0,
+      "price": 11.99,
+      "originalPrice": 39.99,
+      "notified_rate": 70.0,
+      "name": "Camisa regular fit cuello bowling",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/67047691-99-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/lisas/camisa-regular-fit-cuello-bowling_67047691"
     },
     "87027893": {
       "html_price": 107.99,
@@ -329,6 +329,16 @@
       "name": "Camisa cuello bowling 100% algodón",
       "image_url": "https://media.mangooutlet.com/is/image/punto/77002539-45-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-cuello-bowling-100-algodon_77002539"
+    },
+    "67020632": {
+      "html_price": 17.99,
+      "discountRate": 20.0,
+      "price": 79.99,
+      "originalPrice": 99.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
     },
     "87030251": {
       "html_price": 17.99,
@@ -1040,16 +1050,6 @@
       "image_url": null,
       "url": null
     },
-    "87010617": {
-      "html_price": 19.99,
-      "discountRate": 60.0,
-      "price": 19.99,
-      "originalPrice": 49.99,
-      "notified_rate": null,
-      "name": "Corbata lisa 100% lana",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87010617-56-052?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/corbatas-y-pajaritas/corbata-lisa-100-lana_87010617"
-    },
     "87020579": {
       "html_price": 49.99,
       "discountRate": 50.0,
@@ -1059,6 +1059,16 @@
       "name": "Abrigo lana cruzado",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87020579-09-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/abrigos-y-gabardinas/abrigo-lana-cruzado_87020579"
+    },
+    "87010617": {
+      "html_price": 19.99,
+      "discountRate": 60.0,
+      "price": 19.99,
+      "originalPrice": 49.99,
+      "notified_rate": null,
+      "name": "Corbata lisa 100% lana",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87010617-56-052?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/corbatas-y-pajaritas/corbata-lisa-100-lana_87010617"
     },
     "77010576": {
       "html_price": 19.99,
@@ -1540,6 +1550,16 @@
       "image_url": null,
       "url": null
     },
+    "67010682": {
+      "html_price": 4.49,
+      "discountRate": 83.0,
+      "price": 4.49,
+      "originalPrice": 25.99,
+      "notified_rate": 83.0,
+      "name": "Gorra algodón visera",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/67010682-56-052?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/gorras-y-bufandas/gorra-algodon-visera_67010682"
+    },
     "17061279": {
       "html_price": 15.99,
       "discountRate": 20.0,
@@ -1570,16 +1590,6 @@
       "image_url": null,
       "url": null
     },
-    "87080613": {
-      "html_price": 51.99,
-      "discountRate": 60.0,
-      "price": 51.99,
-      "originalPrice": 129.99,
-      "notified_rate": null,
-      "name": "Americana traje Turín 100% lana",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87094395-55-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-turin-100-lana_87080613"
-    },
     "87055933": {
       "html_price": 24.99,
       "discountRate": 31.0,
@@ -1589,6 +1599,16 @@
       "name": null,
       "image_url": null,
       "url": null
+    },
+    "87080613": {
+      "html_price": 51.99,
+      "discountRate": 60.0,
+      "price": 51.99,
+      "originalPrice": 129.99,
+      "notified_rate": null,
+      "name": "Americana traje Turín 100% lana",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87094395-55-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-turin-100-lana_87080613"
     },
     "77075961": {
       "html_price": 66.99,
@@ -2080,16 +2100,6 @@
       "image_url": null,
       "url": null
     },
-    "67010682": {
-      "html_price": 4.49,
-      "discountRate": 83.0,
-      "price": 4.49,
-      "originalPrice": 25.99,
-      "notified_rate": 83.0,
-      "name": "Gorra algodón visera",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/67010682-56-052?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/gorras-y-bufandas/gorra-algodon-visera_67010682"
-    },
     "77020601": {
       "html_price": 13.99,
       "discountRate": 61.0,
@@ -2240,6 +2250,16 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87080617-TU-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/chaquetas/cazadora-denim-lavado-oscuro_87080617"
     },
+    "87014400": {
+      "html_price": 39.99,
+      "discountRate": 20.0,
+      "price": 47.99,
+      "originalPrice": 59.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
+    },
     "17031248": {
       "html_price": 23.99,
       "discountRate": 20.0,
@@ -2380,21 +2400,21 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/77000646-50-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/banadores/banador-estampado-frutas_77000646"
     },
-    "87080573": {
-      "html_price": 55.99,
-      "discountRate": 20.0,
-      "price": 55.99,
-      "originalPrice": 69.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "87055992": {
       "html_price": 42.99,
       "discountRate": 28.0,
       "price": 42.99,
       "originalPrice": 59.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
+    },
+    "87080573": {
+      "html_price": 55.99,
+      "discountRate": 20.0,
+      "price": 55.99,
+      "originalPrice": 69.99,
       "notified_rate": null,
       "name": null,
       "image_url": null,
@@ -2529,6 +2549,16 @@
       "name": null,
       "image_url": null,
       "url": null
+    },
+    "67064447": {
+      "html_price": 4.49,
+      "discountRate": 73.0,
+      "price": 6.99,
+      "originalPrice": 25.99,
+      "notified_rate": 73.0,
+      "name": "Gorra visera algodón bordado",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/67064447-02-052?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/gorras-y-bufandas/gorra-visera-algodon-bordado_67064447"
     },
     "87087893": {
       "html_price": 24.99,
@@ -2689,16 +2719,6 @@
       "name": "Corbata seda rayas",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87010613-30-052?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/corbatas-y-pajaritas/corbata-seda-rayas_87010613"
-    },
-    "87087907": {
-      "html_price": 20.99,
-      "discountRate": 30.0,
-      "price": 20.99,
-      "originalPrice": 29.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
     },
     "77050635": {
       "html_price": 6.99,
@@ -2975,6 +2995,16 @@
       "discountRate": 28.0,
       "price": 35.99,
       "originalPrice": 49.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
+    },
+    "87025937": {
+      "html_price": 27.99,
+      "discountRate": 20.0,
+      "price": 31.99,
+      "originalPrice": 39.99,
       "notified_rate": null,
       "name": null,
       "image_url": null,
@@ -3360,16 +3390,6 @@
       "image_url": null,
       "url": null
     },
-    "87040250": {
-      "html_price": 23.99,
-      "discountRate": 20.0,
-      "price": 23.99,
-      "originalPrice": 29.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "87050622": {
       "html_price": 49.99,
       "discountRate": 50.0,
@@ -3379,6 +3399,16 @@
       "name": "Americana traje París super slim fit",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87060623-16-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-paris-super-slim-fit_87050622"
+    },
+    "87040250": {
+      "html_price": 23.99,
+      "discountRate": 20.0,
+      "price": 23.99,
+      "originalPrice": 29.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
     },
     "77077915": {
       "html_price": 49.99,
@@ -3511,5 +3541,5 @@
       "url": "https://www.mangooutlet.com/es/es/p/hombre/sudaderas/sudadera-algodon-estampado-grafico_87020640"
     }
   },
-  "last_updated": "2026-04-06T21:53:22.901897+00:00"
+  "last_updated": "2026-04-06T22:02:55.254477+00:00"
 }
