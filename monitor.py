@@ -330,13 +330,53 @@ def send_email(notify_items: list[dict]):
     print(f"  -> Email enviado: {subject}")
 
 
+def send_error_email(error: Exception, context: str = ""):
+    """Envía un email de alerta cuando el monitor falla con una excepción inesperada."""
+    now = datetime.now(timezone.utc).strftime("%d/%m/%Y %H:%M UTC")
+    subject = f"⚠️ Mango Monitor — ERROR ({now})"
+    body = f"""
+    <html><body style="font-family:Arial,sans-serif;max-width:620px;margin:auto;
+        background:#f4f4f4;padding:20px;">
+      <div style="background:#fff;border-radius:10px;padding:24px;
+                  border-left:5px solid #c0392b;">
+        <h2 style="margin:0 0 8px;color:#c0392b;">Error en Mango Outlet Monitor</h2>
+        <p style="color:#666;font-size:13px;margin:0 0 16px;">{now}</p>
+        {"<p style='background:#f8f0f0;padding:10px;border-radius:4px;font-size:13px;color:#555;'>"
+         + f"<strong>Contexto:</strong> {context}</p>" if context else ""}
+        <pre style="background:#f5f5f5;padding:14px;border-radius:6px;font-size:12px;
+                    overflow-x:auto;white-space:pre-wrap;">{type(error).__name__}: {error}</pre>
+        <p style="font-size:12px;color:#aaa;margin-top:20px;">
+          Revisa los logs de GitHub Actions para el traceback completo.
+        </p>
+      </div>
+    </body></html>"""
+
+    try:
+        msg = MIMEMultipart("alternative")
+        msg["Subject"] = subject
+        msg["From"]    = GMAIL_USER
+        msg["To"]      = NOTIFY_EMAIL
+        msg.attach(MIMEText(body, "html"))
+        with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
+            server.login(GMAIL_USER, GMAIL_PASS)
+            server.sendmail(GMAIL_USER, NOTIFY_EMAIL, msg.as_string())
+        print(f"  -> Email de error enviado")
+    except Exception as e:
+        print(f"  -> No se pudo enviar email de error: {e}")
+
+
+
 # ── Main ───────────────────────────────────────────────────────────────────────
 
 def main():
     print(f"[{datetime.now(timezone.utc).isoformat()}] Comprobando Mango Outlet...")
 
     # 1. Obtener catálogo, filtrar por talla, y cargar IDs de la sección Premium
-    all_products = fetch_catalog()
+    try:
+        all_products = fetch_catalog()
+    except Exception as e:
+        send_error_email(e, context="fetch_catalog() — posible cambio en la estructura del HTML de búsqueda")
+        raise
     sized        = filter_by_sizes(all_products)
     print(f"  -> {len(sized)} productos con tallas objetivo")
 
@@ -459,4 +499,10 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as e:
+        import traceback
+        traceback.print_exc()
+        send_error_email(e, context="Excepción no controlada en main()")
+        raise
