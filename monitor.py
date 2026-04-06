@@ -20,6 +20,9 @@ SEARCH_URL = (
     "https://www.mangooutlet.com/es/es/search/hombre"
     "?q=hombre&order=asc&filters=sizes%7EM_L_42_43_48_50_90_Talla%2B%C3%BAnica"
 )
+# Sección Premium (Boglioli, Selection, materiales nobles): sin filtro de talla
+# para capturar todos los IDs y cruzarlos con el catálogo principal.
+PREMIUM_URL  = "https://www.mangooutlet.com/es/es/c/hombre/premium/a634af37"
 PRICES_URL   = "https://online-orchestrator.mangooutlet.com/v3/prices/products"
 PRODUCTS_URL = "https://online-orchestrator.mangooutlet.com/v4/products"
 IMAGE_BASE   = "https://media.mangooutlet.com"
@@ -35,6 +38,10 @@ TARGET_SIZES = {"M", "L", "Talla única", "42", "43", "48", "50", "90"}
 
 # Palabras clave que reducen el umbral de descuento a THRESHOLD_KEYWORD
 KEYWORDS = ["selection", "boglioli", "merino", "cashmere", "lana virgen", "cuero", "piel"]
+
+# Si el nombre contiene alguno de estos términos, se anula el match de keywords
+# (p.ej. "efecto piel" es imitación, no cuero real)
+KEYWORD_EXCLUSIONS = ["efecto piel", "similpiel"]
 
 THRESHOLD_GENERAL    = 70.0   # % de descuento mínimo para artículos normales
 THRESHOLD_KEYWORD    = 50.0   # % de descuento mínimo para artículos con keyword
@@ -94,6 +101,23 @@ def fetch_catalog() -> list[dict]:
 
     print(f"  -> {len(products)} productos extraídos del HTML")
     return products
+
+
+def fetch_premium_ids() -> set[str]:
+    """Descarga la sección Premium y devuelve el set de productIds que aparecen en ella.
+    Devuelve un set vacío si la petición falla o la estructura ha cambiado."""
+    try:
+        resp = requests.get(PREMIUM_URL, headers=HEADERS, timeout=30)
+        resp.raise_for_status()
+        ids = {m.group(1) for m in re.finditer(r'\{\\"productId\\":\\"(\d+)\\"\}', resp.text)}
+        print(f"  -> {len(ids)} productos en sección Premium")
+        if not ids:
+            print("     Aviso: ningún productId encontrado en Premium. "
+                  "¿Ha cambiado la estructura de la página?")
+        return ids
+    except Exception as e:
+        print(f"  -> Aviso: no se pudo cargar la sección Premium: {e}")
+        return set()
 
 
 def filter_by_sizes(products: list[dict]) -> list[dict]:
@@ -164,21 +188,30 @@ def fetch_product_details(product_id: str) -> dict | None:
 
 # ── Lógica de umbrales y keywords ──────────────────────────────────────────────
 
-def get_keyword(name: str) -> str | None:
-    """Devuelve el primer keyword encontrado en el nombre, o None."""
+# Set de productIds de la sección Premium; se rellena en main() antes del bucle.
+_premium_ids: set[str] = set()
+
+
+def get_keyword(name: str, product_id: str = "") -> str | None:
+    """Devuelve el keyword/motivo especial del artículo, o None si no aplica.
+    Prioridad: 1) exclusiones anulan todo, 2) ID en sección Premium, 3) keyword en nombre."""
     name_lower = name.lower()
+    if any(excl in name_lower for excl in KEYWORD_EXCLUSIONS):
+        return None
+    if product_id and product_id in _premium_ids:
+        return "premium"
     for kw in KEYWORDS:
         if kw.lower() in name_lower:
             return kw
     return None
 
 
-def applicable_threshold(name: str) -> float:
-    return THRESHOLD_KEYWORD if get_keyword(name) else THRESHOLD_GENERAL
+def applicable_threshold(name: str, product_id: str = "") -> float:
+    return THRESHOLD_KEYWORD if get_keyword(name, product_id) else THRESHOLD_GENERAL
 
 
-def meets_threshold(discount_rate: float, name: str) -> bool:
-    return discount_rate >= applicable_threshold(name)
+def meets_threshold(discount_rate: float, name: str, product_id: str = "") -> bool:
+    return discount_rate >= applicable_threshold(name, product_id)
 
 
 # ── Estado ─────────────────────────────────────────────────────────────────────
@@ -200,7 +233,7 @@ def save_state(state: dict):
 # ── Email ──────────────────────────────────────────────────────────────────────
 
 def build_card(item: dict) -> str:
-    kw     = get_keyword(item.get("name", ""))
+    kw     = get_keyword(item.get("name", ""), item.get("productId", ""))
     is_hot = kw is not None
 
     border = "#C9972B" if is_hot else "#e0e0e0"
@@ -302,10 +335,13 @@ def send_email(notify_items: list[dict]):
 def main():
     print(f"[{datetime.now(timezone.utc).isoformat()}] Comprobando Mango Outlet...")
 
-    # 1. Obtener catálogo y filtrar por talla
+    # 1. Obtener catálogo, filtrar por talla, y cargar IDs de la sección Premium
     all_products = fetch_catalog()
     sized        = filter_by_sizes(all_products)
     print(f"  -> {len(sized)} productos con tallas objetivo")
+
+    global _premium_ids
+    _premium_ids = fetch_premium_ids()
 
     # 2. Cargar estado anterior
     state  = load_state()
@@ -377,7 +413,7 @@ def main():
                 url       = details["url"]
 
         # Aplicar umbral definitivo (con nombre real o fallback al ID)
-        should_notify = might_notify and meets_threshold(discount_rate, name or pid)
+        should_notify = might_notify and meets_threshold(discount_rate, name or pid, pid)
 
         # ── Guardar en nuevo estado ───────────────────────────────────────────
         new_stored[pid] = {
@@ -405,9 +441,10 @@ def main():
 
     print(f"  -> {price_calls} llamadas a la API de precios realizadas")
 
-    # 4. Ordenar: keywords primero (borde dorado), luego por descuento descendente
+    # 4. Ordenar: keywords/premium primero (borde dorado), luego por descuento descendente
     notify_items.sort(
-        key=lambda x: (0 if get_keyword(x.get("name", "")) else 1, -x["discountRate"])
+        key=lambda x: (0 if get_keyword(x.get("name", ""), x.get("productId", "")) else 1,
+                       -x["discountRate"])
     )
 
     # 5. Guardar estado (solo productos que siguen en el catálogo)
