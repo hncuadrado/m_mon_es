@@ -1,0 +1,41 @@
+name: Mango Outlet Monitor
+
+on:
+  schedule:
+    # Cada 30 minutos entre las 7:00 y la 01:30 (hora de Madrid en verano, UTC+2)
+    # Equivale a 05:00–23:30 UTC → cron 0,30 5-23 * * *
+    - cron: "0,30 5-23 * * *"
+  workflow_dispatch:
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run monitor
+        env:
+          GMAIL_USER:   ${{ secrets.GMAIL_USER }}
+          GMAIL_PASS:   ${{ secrets.GMAIL_PASS }}
+          NOTIFY_EMAIL: ${{ secrets.NOTIFY_EMAIL }}
+        run: python monitor.py
+
+      - name: Commit and push state
+        run: |
+          git config user.name  "mango-monitor[bot]"
+          git config user.email "bot@users.noreply.github.com"
+          git add state.json
+          git diff --cached --quiet || git commit -m "chore: update state [skip ci]"
+          git push
