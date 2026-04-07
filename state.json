@@ -290,16 +290,6 @@
       "image_url": null,
       "url": null
     },
-    "67047691": {
-      "html_price": 31.99,
-      "discountRate": 20.0,
-      "price": 31.99,
-      "originalPrice": 39.99,
-      "notified_rate": 70.0,
-      "name": "Camisa regular fit cuello bowling",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/67047691-99-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/lisas/camisa-regular-fit-cuello-bowling_67047691"
-    },
     "17041221": {
       "html_price": 31.99,
       "discountRate": 20.0,
@@ -309,6 +299,16 @@
       "name": null,
       "image_url": null,
       "url": null
+    },
+    "67047691": {
+      "html_price": 31.99,
+      "discountRate": 20.0,
+      "price": 31.99,
+      "originalPrice": 39.99,
+      "notified_rate": 70.0,
+      "name": "Camisa regular fit cuello bowling",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/67047691-99-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/lisas/camisa-regular-fit-cuello-bowling_67047691"
     },
     "87027893": {
       "html_price": 143.99,
@@ -1050,16 +1050,6 @@
       "image_url": null,
       "url": null
     },
-    "17061279": {
-      "html_price": 15.99,
-      "discountRate": 20.0,
-      "price": 15.99,
-      "originalPrice": 19.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "87035935": {
       "html_price": 23.99,
       "discountRate": 20.0,
@@ -1070,16 +1060,6 @@
       "image_url": null,
       "url": null
     },
-    "87010617": {
-      "html_price": 34.99,
-      "discountRate": 30.0,
-      "price": 34.99,
-      "originalPrice": 49.99,
-      "notified_rate": null,
-      "name": "Corbata lisa 100% lana",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87010617-56-052?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/corbatas-y-pajaritas/corbata-lisa-100-lana_87010617"
-    },
     "87020579": {
       "html_price": 79.99,
       "discountRate": 20.0,
@@ -1089,6 +1069,16 @@
       "name": "Abrigo lana cruzado",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87020579-09-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/abrigos-y-gabardinas/abrigo-lana-cruzado_87020579"
+    },
+    "87010617": {
+      "html_price": 34.99,
+      "discountRate": 30.0,
+      "price": 34.99,
+      "originalPrice": 49.99,
+      "notified_rate": null,
+      "name": "Corbata lisa 100% lana",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87010617-56-052?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/corbatas-y-pajaritas/corbata-lisa-100-lana_87010617"
     },
     "77010576": {
       "html_price": 24.99,
@@ -1215,16 +1205,6 @@
       "discountRate": 20.0,
       "price": 79.99,
       "originalPrice": 99.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
-    "17041203": {
-      "html_price": 24.99,
-      "discountRate": 31.0,
-      "price": 24.99,
-      "originalPrice": 35.99,
       "notified_rate": null,
       "name": null,
       "image_url": null,
@@ -1590,6 +1570,16 @@
       "image_url": null,
       "url": null
     },
+    "17061279": {
+      "html_price": 15.99,
+      "discountRate": 20.0,
+      "price": 15.99,
+      "originalPrice": 19.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
+    },
     "87034390": {
       "html_price": 71.99,
       "discountRate": 20.0,
@@ -1610,16 +1600,6 @@
       "image_url": null,
       "url": null
     },
-    "87080613": {
-      "html_price": 103.99,
-      "discountRate": 20.0,
-      "price": 103.99,
-      "originalPrice": 129.99,
-      "notified_rate": null,
-      "name": "Americana traje Turín 100% lana",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87094395-55-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-turin-100-lana_87080613"
-    },
     "87055933": {
       "html_price": 27.99,
       "discountRate": 22.0,
@@ -1629,6 +1609,16 @@
       "name": null,
       "image_url": null,
       "url": null
+    },
+    "87080613": {
+      "html_price": 103.99,
+      "discountRate": 20.0,
+      "price": 103.99,
+      "originalPrice": 129.99,
+      "notified_rate": null,
+      "name": "Americana traje Turín 100% lana",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87094395-55-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-turin-100-lana_87080613"
     },
     "77075961": {
       "html_price": 66.99,
@@ -2870,16 +2860,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87094809-08-052?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/gorras-y-bufandas/gorra-visera_87094809"
     },
-    "17041194": {
-      "html_price": 63.99,
-      "discountRate": 20.0,
-      "price": 63.99,
-      "originalPrice": 79.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "87034391": {
       "html_price": 55.99,
       "discountRate": 20.0,
@@ -2995,6 +2975,16 @@
       "discountRate": 20.0,
       "price": 23.99,
       "originalPrice": 29.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
+    },
+    "17041194": {
+      "html_price": 63.99,
+      "discountRate": 20.0,
+      "price": 63.99,
+      "originalPrice": 79.99,
       "notified_rate": null,
       "name": null,
       "image_url": null,
@@ -3350,16 +3340,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87060606-56-052?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/corbatas-y-pajaritas/corbata-seda-de-mora-estampado-animal_87060606"
     },
-    "17041231": {
-      "html_price": 19.99,
-      "discountRate": 23.0,
-      "price": 19.99,
-      "originalPrice": 25.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "87045935": {
       "html_price": 27.99,
       "discountRate": 22.0,
@@ -3520,6 +3500,16 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/77030575-82-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/vestir/camisa-traje-slim-fit-microraya-twill_77030575"
     },
+    "17041231": {
+      "html_price": 19.99,
+      "discountRate": 23.0,
+      "price": 19.99,
+      "originalPrice": 25.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
+    },
     "77020637": {
       "html_price": 11.99,
       "discountRate": 60.0,
@@ -3621,5 +3611,5 @@
       "url": "https://www.mangooutlet.com/es/es/p/hombre/sudaderas/sudadera-algodon-estampado-grafico_87020640"
     }
   },
-  "last_updated": "2026-04-07T19:46:25.911732+00:00"
+  "last_updated": "2026-04-07T22:01:40.524078+00:00"
 }
