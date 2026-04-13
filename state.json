@@ -910,6 +910,16 @@
       "image_url": null,
       "url": null
     },
+    "87040651": {
+      "html_price": 39.99,
+      "discountRate": 50.0,
+      "price": 39.99,
+      "originalPrice": 79.99,
+      "notified_rate": 50.0,
+      "name": "Mocasín piel antifaz",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87040651-99-052?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/zapatos/mocasines/mocasin-piel-antifaz_87040651"
+    },
     "87077900": {
       "html_price": 19.99,
       "discountRate": 50.0,
@@ -1429,6 +1439,16 @@
       "name": null,
       "image_url": null,
       "url": null
+    },
+    "77014436": {
+      "html_price": 19.99,
+      "discountRate": 50.0,
+      "price": 19.99,
+      "originalPrice": 39.99,
+      "notified_rate": null,
+      "name": "Pantalón slim fit comfort stretch",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/77014436-99-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/slim-fit/pantalon-slim-fit-comfort-stretch_77014436"
     },
     "87010617": {
       "html_price": 9.99,
@@ -2220,6 +2240,16 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87055933-99-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/polos/manga-corta/polo-punto-fino-estructura_87055933"
     },
+    "87080613": {
+      "html_price": 25.99,
+      "discountRate": 80.0,
+      "price": 25.99,
+      "originalPrice": 129.99,
+      "notified_rate": 80.0,
+      "name": "Americana traje Turín 100% lana",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87094395-55-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-turin-100-lana_87080613"
+    },
     "17061201": {
       "html_price": 17.99,
       "discountRate": 40.0,
@@ -2589,6 +2619,16 @@
       "name": "Camiseta cuello pico",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17051229-99-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisetas/slim-fit/camiseta-cuello-pico_17051229"
+    },
+    "77073259": {
+      "html_price": 5.99,
+      "discountRate": 80.0,
+      "price": 5.99,
+      "originalPrice": 29.99,
+      "notified_rate": 80.0,
+      "name": "Bermudas relaxed fit pinzas",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/77073259-40-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/bermudas/bermudas-relaxed-fit-pinzas_77073259"
     },
     "87045926": {
       "html_price": 20.99,
@@ -3970,16 +4010,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/77010581-99-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-regular-fit-cruzada_77010580"
     },
-    "87057893": {
-      "html_price": 39.99,
-      "discountRate": 50.0,
-      "price": 39.99,
-      "originalPrice": 79.99,
-      "notified_rate": 50.0,
-      "name": "Sobrecamisa 100% lino bolsillos",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87057893-56-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-100-lino-bolsillos_87057893"
-    },
     "87049217": {
       "html_price": 19.99,
       "discountRate": 50.0,
@@ -3989,6 +4019,16 @@
       "name": "Camisa regular fit algodón lino",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87049217-04-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-regular-fit-algodon-lino_87049217"
+    },
+    "87057893": {
+      "html_price": 39.99,
+      "discountRate": 50.0,
+      "price": 39.99,
+      "originalPrice": 79.99,
+      "notified_rate": 50.0,
+      "name": "Sobrecamisa 100% lino bolsillos",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87057893-56-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-100-lino-bolsillos_87057893"
     },
     "87035936": {
       "html_price": 24.99,
@@ -4671,5 +4711,5 @@
       "url": null
     }
   },
-  "last_updated": "2026-04-13T00:03:08.766820+00:00"
+  "last_updated": "2026-04-13T10:58:30.306148+00:00"
 }
