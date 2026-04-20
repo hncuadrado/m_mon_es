@@ -940,16 +940,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87010633-37-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-casual/americana-mezcla-lana-slim-fit_87030632"
     },
-    "87077900": {
-      "html_price": 19.99,
-      "discountRate": 50.0,
-      "price": 19.99,
-      "originalPrice": 39.99,
-      "notified_rate": null,
-      "name": "Camisa punto detalle calados",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87077900-01-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-punto-detalle-calados_87077900"
-    },
     "87074396": {
       "html_price": 24.99,
       "discountRate": 50.0,
@@ -959,6 +949,16 @@
       "name": "Pantalón cargo relaxed fit",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87074396-09-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/pantalon-cargo-relaxed-fit_87074396"
+    },
+    "87077900": {
+      "html_price": 19.99,
+      "discountRate": 50.0,
+      "price": 19.99,
+      "originalPrice": 39.99,
+      "notified_rate": null,
+      "name": "Camisa punto detalle calados",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87077900-01-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-punto-detalle-calados_87077900"
     },
     "87029213": {
       "html_price": 24.99,
@@ -1020,21 +1020,21 @@
       "image_url": null,
       "url": null
     },
-    "17088271": {
-      "html_price": 17.99,
-      "discountRate": 40.0,
-      "price": 17.99,
-      "originalPrice": 29.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "17061129": {
       "html_price": 63.99,
       "discountRate": 29.0,
       "price": 63.99,
       "originalPrice": 89.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
+    },
+    "17088271": {
+      "html_price": 17.99,
+      "discountRate": 40.0,
+      "price": 17.99,
+      "originalPrice": 29.99,
       "notified_rate": null,
       "name": null,
       "image_url": null,
@@ -1440,16 +1440,6 @@
       "image_url": null,
       "url": null
     },
-    "87020579": {
-      "html_price": 49.99,
-      "discountRate": 50.0,
-      "price": 49.99,
-      "originalPrice": 99.99,
-      "notified_rate": null,
-      "name": "Abrigo lana cruzado",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87020579-09-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/abrigos-y-gabardinas/abrigo-lana-cruzado_87020579"
-    },
     "87010617": {
       "html_price": 19.99,
       "discountRate": 60.0,
@@ -1459,6 +1449,16 @@
       "name": "Corbata lisa 100% lana",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87010617-56-052?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/corbatas-y-pajaritas/corbata-lisa-100-lana_87010617"
+    },
+    "87020579": {
+      "html_price": 49.99,
+      "discountRate": 50.0,
+      "price": 49.99,
+      "originalPrice": 99.99,
+      "notified_rate": null,
+      "name": "Abrigo lana cruzado",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87020579-09-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/abrigos-y-gabardinas/abrigo-lana-cruzado_87020579"
     },
     "77010576": {
       "html_price": 39.99,
@@ -1709,16 +1709,6 @@
       "name": "Polo 100% algodón estructura canalé",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87087896-70-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/polos/manga-corta/polo-100-algodon-estructura-canale_87087896"
-    },
-    "17001251": {
-      "html_price": 17.99,
-      "discountRate": 40.0,
-      "price": 17.99,
-      "originalPrice": 29.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
     },
     "87000606": {
       "html_price": 11.99,
@@ -2459,16 +2449,6 @@
       "name": "Pantalón mezcla lino regular fit",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87035917-08-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/pantalon-mezcla-lino-regular-fit_87035917"
-    },
-    "87075916": {
-      "html_price": 37.99,
-      "discountRate": 37.0,
-      "price": 37.99,
-      "originalPrice": 59.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
     },
     "17041143": {
       "html_price": 21.99,
@@ -4701,5 +4681,5 @@
       "url": null
     }
   },
-  "last_updated": "2026-04-20T19:43:14.008252+00:00"
+  "last_updated": "2026-04-20T22:11:21.787018+00:00"
 }
