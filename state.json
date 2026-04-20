@@ -730,16 +730,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17046001-92-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/slim-fit/camisa--100-algodon-rayas-slim-fit_17046001"
     },
-    "87000607": {
-      "html_price": 19.99,
-      "discountRate": 50.0,
-      "price": 19.99,
-      "originalPrice": 39.99,
-      "notified_rate": null,
-      "name": "Camisa slim fit algodón rayas",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87000607-01-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/regular-fit/camisa-slim-fit-algodon-rayas_87000607"
-    },
     "17031204": {
       "html_price": 14.99,
       "discountRate": 50.0,
@@ -960,16 +950,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87010633-37-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-casual/americana-mezcla-lana-slim-fit_87030632"
     },
-    "87077900": {
-      "html_price": 19.99,
-      "discountRate": 50.0,
-      "price": 19.99,
-      "originalPrice": 39.99,
-      "notified_rate": null,
-      "name": "Camisa punto detalle calados",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87077900-01-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-punto-detalle-calados_87077900"
-    },
     "87074396": {
       "html_price": 24.99,
       "discountRate": 50.0,
@@ -979,6 +959,16 @@
       "name": "Pantalón cargo relaxed fit",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87074396-09-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/pantalon-cargo-relaxed-fit_87074396"
+    },
+    "87077900": {
+      "html_price": 19.99,
+      "discountRate": 50.0,
+      "price": 19.99,
+      "originalPrice": 39.99,
+      "notified_rate": null,
+      "name": "Camisa punto detalle calados",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87077900-01-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-punto-detalle-calados_87077900"
     },
     "87029213": {
       "html_price": 24.99,
@@ -2020,16 +2010,6 @@
       "image_url": null,
       "url": null
     },
-    "87060617": {
-      "html_price": 32.99,
-      "discountRate": 45.0,
-      "price": 32.99,
-      "originalPrice": 59.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "17021212": {
       "html_price": 24.99,
       "discountRate": 38.0,
@@ -2869,16 +2849,6 @@
       "name": "Pantalón algodón cordón regular fit",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87060575-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/regular-fit/pantalon-algodon-cordon-regular-fit_87060575"
-    },
-    "17041247": {
-      "html_price": 13.99,
-      "discountRate": 39.0,
-      "price": 13.99,
-      "originalPrice": 22.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
     },
     "77020601": {
       "html_price": 13.99,
@@ -4110,16 +4080,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87030579-37-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/regular-fit/pantalon-pinzas-bajo-vuelta_87030579"
     },
-    "87005940": {
-      "html_price": 19.99,
-      "discountRate": 60.0,
-      "price": 19.99,
-      "originalPrice": 49.99,
-      "notified_rate": null,
-      "name": "Pantalón traje París super slim fit",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87025928-08-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/slim-fit/pantalon-traje-paris-super-slim-fit_87005940"
-    },
     "87045933": {
       "html_price": 29.99,
       "discountRate": 50.0,
@@ -4294,6 +4254,16 @@
       "html_price": 24.99,
       "discountRate": 38.0,
       "price": 24.99,
+      "originalPrice": 39.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
+    },
+    "17075979": {
+      "html_price": 27.99,
+      "discountRate": 30.0,
+      "price": 27.99,
       "originalPrice": 39.99,
       "notified_rate": null,
       "name": null,
@@ -4781,5 +4751,5 @@
       "url": null
     }
   },
-  "last_updated": "2026-04-20T10:59:26.807972+00:00"
+  "last_updated": "2026-04-20T15:55:24.461652+00:00"
 }
