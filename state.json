@@ -240,16 +240,6 @@
       "image_url": null,
       "url": null
     },
-    "87055924": {
-      "html_price": 12.99,
-      "discountRate": 50.0,
-      "price": 12.99,
-      "originalPrice": 25.99,
-      "notified_rate": null,
-      "name": "Bermudas algodón textura cordón",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87055924-05-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/bermudas/bermudas-algodon-textura-cordon_87055924"
-    },
     "87067894": {
       "html_price": 17.99,
       "discountRate": 31.0,
@@ -760,16 +750,6 @@
       "image_url": null,
       "url": null
     },
-    "87025932": {
-      "html_price": 49.99,
-      "discountRate": 50.0,
-      "price": 49.99,
-      "originalPrice": 99.99,
-      "notified_rate": null,
-      "name": "Americana traje París super slim fit",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87030252-99-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-paris-super-slim-fit_87025932"
-    },
     "87005941": {
       "html_price": 11.99,
       "discountRate": 70.0,
@@ -779,6 +759,16 @@
       "name": "Pantalón popelín algodón",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87005941-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/regular-fit/pantalon-popelin-algodon_87005941"
+    },
+    "87025932": {
+      "html_price": 49.99,
+      "discountRate": 50.0,
+      "price": 49.99,
+      "originalPrice": 99.99,
+      "notified_rate": null,
+      "name": "Americana traje París super slim fit",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87030252-99-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-paris-super-slim-fit_87025932"
     },
     "17081206": {
       "html_price": 13.99,
@@ -2520,16 +2510,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87015922-04-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-100-lino-bolsillos_87015922"
     },
-    "87079216": {
-      "html_price": 24.99,
-      "discountRate": 50.0,
-      "price": 24.99,
-      "originalPrice": 49.99,
-      "notified_rate": 50.0,
-      "name": "Sobrecamisa mezcla lino bolsillos",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87079216-05-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-mezcla-lino-bolsillos_87079216"
-    },
     "87095922": {
       "html_price": 17.99,
       "discountRate": 50.0,
@@ -2539,6 +2519,16 @@
       "name": "Camisa lino regular fit",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87095922-04-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/regular-fit/camisa-lino-regular-fit_87095922"
+    },
+    "87079216": {
+      "html_price": 24.99,
+      "discountRate": 50.0,
+      "price": 24.99,
+      "originalPrice": 49.99,
+      "notified_rate": 50.0,
+      "name": "Sobrecamisa mezcla lino bolsillos",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87079216-05-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-mezcla-lino-bolsillos_87079216"
     },
     "87060623": {
       "html_price": 39.99,
@@ -2700,16 +2690,6 @@
       "image_url": null,
       "url": null
     },
-    "87067897": {
-      "html_price": 17.99,
-      "discountRate": 31.0,
-      "price": 17.99,
-      "originalPrice": 25.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "87037891": {
       "html_price": 15.99,
       "discountRate": 60.0,
@@ -2719,6 +2699,16 @@
       "name": "Camisa lino",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87037891-46-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/regular-fit/camisa-lino_87037891"
+    },
+    "87067897": {
+      "html_price": 17.99,
+      "discountRate": 31.0,
+      "price": 17.99,
+      "originalPrice": 25.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
     },
     "17045977": {
       "html_price": 14.99,
@@ -4451,5 +4441,5 @@
       "url": null
     }
   },
-  "last_updated": "2026-04-24T22:29:13.548953+00:00"
+  "last_updated": "2026-04-25T05:30:26.367032+00:00"
 }
