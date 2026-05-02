@@ -600,6 +600,16 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87005985-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/banadores/banador-estampado-geometrico_87005985"
     },
+    "77070575": {
+      "html_price": 11.99,
+      "discountRate": 60.0,
+      "price": 11.99,
+      "originalPrice": 29.99,
+      "notified_rate": null,
+      "name": "Bermudas vaqueras slim fit",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/77040577-TG-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/bermudas/bermudas-vaqueras-slim-fit/77070575"
+    },
     "17031204": {
       "html_price": 14.99,
       "discountRate": 50.0,
@@ -760,16 +770,6 @@
       "image_url": null,
       "url": null
     },
-    "87005941": {
-      "html_price": 19.99,
-      "discountRate": 50.0,
-      "price": 19.99,
-      "originalPrice": 39.99,
-      "notified_rate": 70.0,
-      "name": "Pantalón popelín algodón",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87005941-56-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/regular-fit/pantalon-popelin-algodon_87005941"
-    },
     "87025932": {
       "html_price": 49.99,
       "discountRate": 50.0,
@@ -779,6 +779,16 @@
       "name": "Americana traje París super slim fit",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87030252-99-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-paris-super-slim-fit_87025932"
+    },
+    "87005941": {
+      "html_price": 19.99,
+      "discountRate": 50.0,
+      "price": 19.99,
+      "originalPrice": 39.99,
+      "notified_rate": 70.0,
+      "name": "Pantalón popelín algodón",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87005941-56-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/regular-fit/pantalon-popelin-algodon_87005941"
     },
     "17081206": {
       "html_price": 13.99,
@@ -1139,6 +1149,16 @@
       "name": null,
       "image_url": null,
       "url": null
+    },
+    "67084444": {
+      "html_price": 29.99,
+      "discountRate": 70.0,
+      "price": 29.99,
+      "originalPrice": 99.99,
+      "notified_rate": 70.0,
+      "name": "Americana traje slim fit",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/67084444-56-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-slim-fit/67084444"
     },
     "87084409": {
       "html_price": 17.99,
@@ -1590,16 +1610,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87015942-50-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/regular-fit/camisa-rayas-100-algodon-regular-fit_87015942"
     },
-    "77037699": {
-      "html_price": 23.99,
-      "discountRate": 20.0,
-      "price": 23.99,
-      "originalPrice": 29.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "77074437": {
       "html_price": 49.99,
       "discountRate": 50.0,
@@ -1609,6 +1619,16 @@
       "name": "Americana traje París super slim fit",
       "image_url": "https://media.mangooutlet.com/is/image/punto/77084438-08-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-paris-super-slim-fit_77074437"
+    },
+    "77037699": {
+      "html_price": 23.99,
+      "discountRate": 20.0,
+      "price": 23.99,
+      "originalPrice": 29.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
     },
     "87092889": {
       "html_price": 19.99,
@@ -3880,6 +3900,16 @@
       "image_url": null,
       "url": null
     },
+    "77020566": {
+      "html_price": 29.99,
+      "discountRate": 50.0,
+      "price": 29.99,
+      "originalPrice": 59.99,
+      "notified_rate": null,
+      "name": "Sobrecamisa 100% algodón popelín",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/77020566-37-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-100-algodon-popelin/77020566"
+    },
     "17061248": {
       "html_price": 12.99,
       "discountRate": 57.0,
@@ -4281,5 +4311,5 @@
       "url": null
     }
   },
-  "last_updated": "2026-05-02T00:09:18.411769+00:00"
+  "last_updated": "2026-05-02T08:54:23.931685+00:00"
 }
