@@ -820,16 +820,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/67079220-28-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-slim-fit-tencel-lino_67079220"
     },
-    "77024444": {
-      "html_price": 24.99,
-      "discountRate": 38.0,
-      "price": 24.99,
-      "originalPrice": 39.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "87077897": {
       "html_price": 19.99,
       "discountRate": 50.0,
@@ -3450,16 +3440,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/67080619-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/chalecos/chaleco-traje-slim-fit/67080619"
     },
-    "87057893": {
-      "html_price": 39.99,
-      "discountRate": 50.0,
-      "price": 39.99,
-      "originalPrice": 79.99,
-      "notified_rate": 50.0,
-      "name": "Sobrecamisa 100% lino bolsillos",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87057893-56-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-100-lino-bolsillos_87057893"
-    },
     "87049217": {
       "html_price": 19.99,
       "discountRate": 50.0,
@@ -3469,6 +3449,16 @@
       "name": "Camisa regular fit algodón lino",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87049217-04-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-regular-fit-algodon-lino_87049217"
+    },
+    "87057893": {
+      "html_price": 39.99,
+      "discountRate": 50.0,
+      "price": 39.99,
+      "originalPrice": 79.99,
+      "notified_rate": 50.0,
+      "name": "Sobrecamisa 100% lino bolsillos",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87057893-56-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-100-lino-bolsillos_87057893"
     },
     "17011224": {
       "html_price": 22.99,
@@ -3699,16 +3689,6 @@
       "name": null,
       "image_url": null,
       "url": null
-    },
-    "77087656": {
-      "html_price": 12.99,
-      "discountRate": 50.0,
-      "price": 12.99,
-      "originalPrice": 25.99,
-      "notified_rate": null,
-      "name": "Polo 100% algodón regular fit",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/77087656-50-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/polos/manga-corta/polo-100-algodon-regular-fit/77087656"
     },
     "87065916": {
       "html_price": 42.99,
@@ -4211,5 +4191,5 @@
       "url": null
     }
   },
-  "last_updated": "2026-05-03T13:52:47.427368+00:00"
+  "last_updated": "2026-05-03T14:42:03.307189+00:00"
 }
