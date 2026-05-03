@@ -3270,16 +3270,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/67080620-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-slim-fit-tejido-comfort-stretch_67080620"
     },
-    "87049205": {
-      "html_price": 19.99,
-      "discountRate": 60.0,
-      "price": 19.99,
-      "originalPrice": 49.99,
-      "notified_rate": null,
-      "name": "Alpargata rafia",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87049205-07-052?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/zapatos/alpargata-rafia/87049205"
-    },
     "17061190": {
       "html_price": 31.99,
       "discountRate": 36.0,
@@ -4171,5 +4161,5 @@
       "url": null
     }
   },
-  "last_updated": "2026-05-03T22:33:09.996637+00:00"
+  "last_updated": "2026-05-03T23:36:53.041786+00:00"
 }
