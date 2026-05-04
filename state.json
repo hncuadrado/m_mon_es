@@ -40,6 +40,16 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87004414-99-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/cardigans-y-jerseis/jerseis/jersey-100-algodon-punto-calado_87004414"
     },
+    "67080624": {
+      "html_price": 9.99,
+      "discountRate": 80.0,
+      "price": 9.99,
+      "originalPrice": 49.99,
+      "notified_rate": 80.0,
+      "name": "Chaleco traje super slim fit tejido stretch",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/67060621-99-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/chalecos/chaleco-traje-super-slim-fit-tejido-stretch/67080624"
+    },
     "77047113": {
       "html_price": 7.99,
       "discountRate": 73.0,
@@ -339,16 +349,6 @@
       "name": "Camiseta regular fit 100% algodón rayas",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87005946-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisetas/regular-fit/camiseta-regular-fit-100-algodon-rayas_87005946"
-    },
-    "17061137": {
-      "html_price": 29.99,
-      "discountRate": 50.0,
-      "price": 29.99,
-      "originalPrice": 59.99,
-      "notified_rate": null,
-      "name": "Pantalón slim fit water-repellent",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17061137-37-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/slim-fit/pantalon-slim-fit-water-repellent/17061137"
     },
     "87014401": {
       "html_price": 13.99,
@@ -2500,16 +2500,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87037891-46-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/regular-fit/camisa-lino_87037891"
     },
-    "87080617": {
-      "html_price": 29.99,
-      "discountRate": 50.0,
-      "price": 29.99,
-      "originalPrice": 59.99,
-      "notified_rate": 77.0,
-      "name": "Cazadora denim lavado oscuro",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87080617-TU-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/chaquetas/cazadora-denim-lavado-oscuro_87080617"
-    },
     "17061241": {
       "html_price": 9.99,
       "discountRate": 44.0,
@@ -3310,16 +3300,6 @@
       "image_url": null,
       "url": null
     },
-    "87090653": {
-      "html_price": 24.99,
-      "discountRate": 31.0,
-      "price": 24.99,
-      "originalPrice": 35.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "17081136": {
       "html_price": 34.99,
       "discountRate": 50.0,
@@ -3720,16 +3700,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17061248-99-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/cardigans-y-jerseis/jerseis/jersey-algodon-punto-fino-canale_17061248"
     },
-    "87057895": {
-      "html_price": 17.99,
-      "discountRate": 31.0,
-      "price": 17.99,
-      "originalPrice": 25.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "87067889": {
       "html_price": 27.99,
       "discountRate": 60.0,
@@ -4111,5 +4081,5 @@
       "url": null
     }
   },
-  "last_updated": "2026-05-04T07:44:11.335498+00:00"
+  "last_updated": "2026-05-04T10:06:56.081125+00:00"
 }
