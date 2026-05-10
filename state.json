@@ -750,21 +750,21 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87067888-04-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisetas/slim-fit/camiseta-lino-botones_87067888"
     },
-    "17061129": {
-      "html_price": 63.99,
-      "discountRate": 29.0,
-      "price": 63.99,
-      "originalPrice": 89.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "17088271": {
       "html_price": 17.99,
       "discountRate": 40.0,
       "price": 17.99,
       "originalPrice": 29.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
+    },
+    "17061129": {
+      "html_price": 63.99,
+      "discountRate": 29.0,
+      "price": 63.99,
+      "originalPrice": 89.99,
       "notified_rate": null,
       "name": null,
       "image_url": null,
@@ -1110,16 +1110,6 @@
       "image_url": null,
       "url": null
     },
-    "77014436": {
-      "html_price": 19.99,
-      "discountRate": 50.0,
-      "price": 19.99,
-      "originalPrice": 39.99,
-      "notified_rate": null,
-      "name": "Pantalón slim fit comfort stretch",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/77014436-99-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/slim-fit/pantalon-slim-fit-comfort-stretch/77014436"
-    },
     "87010617": {
       "html_price": 19.99,
       "discountRate": 60.0,
@@ -1150,16 +1140,6 @@
       "image_url": null,
       "url": null
     },
-    "77070562": {
-      "html_price": 11.99,
-      "discountRate": 76.0,
-      "price": 11.99,
-      "originalPrice": 49.99,
-      "notified_rate": 76.0,
-      "name": "Pantalón lyocell algodón pinzas",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/77070562-77-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/chinos/pantalon-lyocell-algodon-pinzas/77070562"
-    },
     "17051273": {
       "html_price": 7.99,
       "discountRate": 60.0,
@@ -1179,16 +1159,6 @@
       "name": null,
       "image_url": null,
       "url": null
-    },
-    "17015977": {
-      "html_price": 29.99,
-      "discountRate": 50.0,
-      "price": 29.99,
-      "originalPrice": 59.99,
-      "notified_rate": null,
-      "name": "Sudadera cremallera comfort stretch",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17015977-56-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/sudaderas/sudadera-cremallera-comfort-stretch/17015977"
     },
     "87080609": {
       "html_price": 29.99,
@@ -4101,5 +4071,5 @@
       "url": null
     }
   },
-  "last_updated": "2026-05-10T07:23:02.765024+00:00"
+  "last_updated": "2026-05-10T09:11:23.322232+00:00"
 }
