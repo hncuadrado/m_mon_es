@@ -20,16 +20,6 @@
       "image_url": null,
       "url": null
     },
-    "17056746": {
-      "html_price": 24.99,
-      "discountRate": 38.0,
-      "price": 24.99,
-      "originalPrice": 39.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "17041244": {
       "html_price": 19.99,
       "discountRate": 50.0,
@@ -39,6 +29,16 @@
       "name": "Camisa punto canalé",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17041244-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-punto-canale/17041244"
+    },
+    "17056746": {
+      "html_price": 24.99,
+      "discountRate": 38.0,
+      "price": 24.99,
+      "originalPrice": 39.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
     },
     "87074797": {
       "html_price": 15.99,
@@ -195,16 +195,6 @@
       "discountRate": 33.0,
       "price": 11.99,
       "originalPrice": 17.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
-    "17031249": {
-      "html_price": 16.99,
-      "discountRate": 39.0,
-      "price": 16.99,
-      "originalPrice": 27.99,
       "notified_rate": null,
       "name": null,
       "image_url": null,
@@ -790,16 +780,6 @@
       "image_url": null,
       "url": null
     },
-    "87074396": {
-      "html_price": 14.99,
-      "discountRate": 70.0,
-      "price": 14.99,
-      "originalPrice": 49.99,
-      "notified_rate": 70.0,
-      "name": "Pantalón cargo relaxed fit",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87074396-09-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/pantalon-cargo-relaxed-fit_87074396"
-    },
     "87077900": {
       "html_price": 19.99,
       "discountRate": 50.0,
@@ -809,6 +789,16 @@
       "name": "Camisa punto detalle calados",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87077900-01-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-punto-detalle-calados_87077900"
+    },
+    "87074396": {
+      "html_price": 14.99,
+      "discountRate": 70.0,
+      "price": 14.99,
+      "originalPrice": 49.99,
+      "notified_rate": 70.0,
+      "name": "Pantalón cargo relaxed fit",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87074396-09-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/pantalon-cargo-relaxed-fit_87074396"
     },
     "77035964": {
       "html_price": 79.99,
@@ -870,16 +860,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87045917-43-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/bermudas/bermudas-100-lino-pinzas_87045917"
     },
-    "87075923": {
-      "html_price": 17.99,
-      "discountRate": 31.0,
-      "price": 17.99,
-      "originalPrice": 25.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "17061129": {
       "html_price": 63.99,
       "discountRate": 29.0,
@@ -919,16 +899,6 @@
       "name": "Camisa 100% algodón boxy fit",
       "image_url": "https://media.mangooutlet.com/is/image/punto/77029231-50-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/lisas/camisa-100-algodon-boxy-fit/77029231"
-    },
-    "87069204": {
-      "html_price": 30.99,
-      "discountRate": 38.0,
-      "price": 30.99,
-      "originalPrice": 49.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
     },
     "17061220": {
       "html_price": 24.99,
@@ -1320,16 +1290,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17015977-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/sudaderas/sudadera-cremallera-comfort-stretch/17015977"
     },
-    "87080609": {
-      "html_price": 29.99,
-      "discountRate": 50.0,
-      "price": 29.99,
-      "originalPrice": 59.99,
-      "notified_rate": null,
-      "name": "Botín serraje casual",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87080609-37-052?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/zapatos/botas-y-botines/botin-serraje-casual/87080609"
-    },
     "17011245": {
       "html_price": 11.99,
       "discountRate": 60.0,
@@ -1490,16 +1450,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/77070569-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-casual/americana-slim-fit-algodon-estructura_77070569"
     },
-    "17081149": {
-      "html_price": 31.99,
-      "discountRate": 30.0,
-      "price": 31.99,
-      "originalPrice": 45.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "87004402": {
       "html_price": 24.99,
       "discountRate": 50.0,
@@ -1525,6 +1475,16 @@
       "discountRate": 20.0,
       "price": 79.99,
       "originalPrice": 99.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
+    },
+    "87044411": {
+      "html_price": 20.99,
+      "discountRate": 30.0,
+      "price": 20.99,
+      "originalPrice": 29.99,
       "notified_rate": null,
       "name": null,
       "image_url": null,
@@ -1580,16 +1540,6 @@
       "image_url": null,
       "url": null
     },
-    "17074430": {
-      "html_price": 49.99,
-      "discountRate": 29.0,
-      "price": 49.99,
-      "originalPrice": 69.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "17041229": {
       "html_price": 13.99,
       "discountRate": 61.0,
@@ -1599,6 +1549,16 @@
       "name": "Camisa regular fit lyocell",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17041229-03-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/regular-fit/camisa-regular-fit-lyocell/17041229"
+    },
+    "17074430": {
+      "html_price": 49.99,
+      "discountRate": 29.0,
+      "price": 49.99,
+      "originalPrice": 69.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
     },
     "87080605": {
       "html_price": 20.99,
@@ -3080,16 +3040,6 @@
       "image_url": null,
       "url": null
     },
-    "77040567": {
-      "html_price": 15.99,
-      "discountRate": 60.0,
-      "price": 15.99,
-      "originalPrice": 39.99,
-      "notified_rate": null,
-      "name": "Bermudas 100% algodón espiga",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/77040567-37-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/bermudas/bermudas-100-algodon-espiga/77040567"
-    },
     "17011211": {
       "html_price": 11.99,
       "discountRate": 48.0,
@@ -3690,16 +3640,6 @@
       "image_url": null,
       "url": null
     },
-    "87049217": {
-      "html_price": 19.99,
-      "discountRate": 50.0,
-      "price": 19.99,
-      "originalPrice": 39.99,
-      "notified_rate": 50.0,
-      "name": "Camisa regular fit algodón lino",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87049217-04-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-regular-fit-algodon-lino/87049217"
-    },
     "87057893": {
       "html_price": 39.99,
       "discountRate": 50.0,
@@ -3709,6 +3649,16 @@
       "name": "Sobrecamisa 100% lino bolsillos",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87057893-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-100-lino-bolsillos_87057893"
+    },
+    "87049217": {
+      "html_price": 19.99,
+      "discountRate": 50.0,
+      "price": 19.99,
+      "originalPrice": 39.99,
+      "notified_rate": 50.0,
+      "name": "Camisa regular fit algodón lino",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87049217-04-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-regular-fit-algodon-lino/87049217"
     },
     "77080567": {
       "html_price": 71.99,
@@ -3819,26 +3769,6 @@
       "name": null,
       "image_url": null,
       "url": null
-    },
-    "87050607": {
-      "html_price": 15.99,
-      "discountRate": 38.0,
-      "price": 15.99,
-      "originalPrice": 25.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
-    "87090603": {
-      "html_price": 5.99,
-      "discountRate": 70.0,
-      "price": 5.99,
-      "originalPrice": 19.99,
-      "notified_rate": 70.0,
-      "name": "Cartera billetera efecto abatanado",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87090603-99-052?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/carteras/cartera-billetera-efecto-abatanado/87090603"
     },
     "87025927": {
       "html_price": 42.99,
@@ -4270,6 +4200,16 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/77054433-37-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/abrigos-y-gabardinas/parkas/parka-capucha-water-repellent_77054433"
     },
+    "87050607": {
+      "html_price": 15.99,
+      "discountRate": 38.0,
+      "price": 15.99,
+      "originalPrice": 25.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
+    },
     "87027891": {
       "html_price": 55.99,
       "discountRate": 65.0,
@@ -4551,5 +4491,5 @@
       "url": null
     }
   },
-  "last_updated": "2026-05-17T23:26:54.173791+00:00"
+  "last_updated": "2026-05-18T01:26:38.947938+00:00"
 }
