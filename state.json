@@ -10,16 +10,6 @@
       "image_url": null,
       "url": null
     },
-    "17041244": {
-      "html_price": 31.99,
-      "discountRate": 20.0,
-      "price": 31.99,
-      "originalPrice": 39.99,
-      "notified_rate": null,
-      "name": "Camisa punto canalé",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17041244-56-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-punto-canale/17041244"
-    },
     "17056746": {
       "html_price": 27.99,
       "discountRate": 30.0,
@@ -29,6 +19,16 @@
       "name": null,
       "image_url": null,
       "url": null
+    },
+    "17041244": {
+      "html_price": 31.99,
+      "discountRate": 20.0,
+      "price": 31.99,
+      "originalPrice": 39.99,
+      "notified_rate": null,
+      "name": "Camisa punto canalé",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/17041244-56-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-punto-canale/17041244"
     },
     "87074797": {
       "html_price": 17.99,
@@ -919,16 +919,6 @@
       "name": "Bermudas 100% lino pinzas",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87045917-43-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/bermudas/bermudas-100-lino-pinzas_87045917"
-    },
-    "87075923": {
-      "html_price": 19.99,
-      "discountRate": 23.0,
-      "price": 19.99,
-      "originalPrice": 25.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
     },
     "17061129": {
       "html_price": 71.99,
@@ -2420,21 +2410,21 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17031248-02-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisetas/polo-punto-fino-100-algodon/17031248"
     },
-    "17011231": {
-      "html_price": 27.99,
-      "discountRate": 22.0,
-      "price": 27.99,
-      "originalPrice": 35.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "17021250": {
       "html_price": 39.99,
       "discountRate": 20.0,
       "price": 39.99,
       "originalPrice": 49.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
+    },
+    "17011231": {
+      "html_price": 27.99,
+      "discountRate": 22.0,
+      "price": 27.99,
+      "originalPrice": 35.99,
       "notified_rate": null,
       "name": null,
       "image_url": null,
@@ -2569,16 +2559,6 @@
       "name": "Camiseta lino slim fit",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17041211-01-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisetas/slim-fit/camiseta-lino-slim-fit_17041211"
-    },
-    "77030566": {
-      "html_price": 12.99,
-      "discountRate": 78.0,
-      "price": 12.99,
-      "originalPrice": 59.99,
-      "notified_rate": 78.0,
-      "name": "Pantalón mezcla lino rayas cordón",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/77030564-02-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/regular-fit/pantalon-mezcla-lino-rayas-cordon/77030566"
     },
     "87015922": {
       "html_price": 55.99,
@@ -3219,16 +3199,6 @@
       "name": "Camiseta punto canalé",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17061243-39-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisetas/basicas/camiseta-punto-canale/17061243"
-    },
-    "77052532": {
-      "html_price": 14.99,
-      "discountRate": 70.0,
-      "price": 14.99,
-      "originalPrice": 49.99,
-      "notified_rate": 70.0,
-      "name": "Pantalón slim fit lyocell pinzas",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/77052532-06-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/slim-fit/pantalon-slim-fit-lyocell-pinzas/77052532"
     },
     "17021207": {
       "html_price": 15.99,
@@ -3930,16 +3900,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87095917-05-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/chaquetas/chaquetas/chaqueta-mezcla-lino-algodon-bolsillo_87095917"
     },
-    "77027917": {
-      "html_price": 34.99,
-      "discountRate": 75.0,
-      "price": 34.99,
-      "originalPrice": 139.99,
-      "notified_rate": 75.0,
-      "name": "Abrigo lana capucha interior acolchado",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/77027917-99-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/abrigos-y-gabardinas/abrigo-lana-capucha-interior-acolchado/77027917"
-    },
     "87010595": {
       "html_price": 39.99,
       "discountRate": 20.0,
@@ -4491,5 +4451,5 @@
       "url": null
     }
   },
-  "last_updated": "2026-05-19T19:48:21.331566+00:00"
+  "last_updated": "2026-05-19T21:12:42.604651+00:00"
 }
