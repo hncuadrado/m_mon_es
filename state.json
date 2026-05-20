@@ -1630,16 +1630,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87075933-08-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-punto-algodon_87075933"
     },
-    "17074430": {
-      "html_price": 55.99,
-      "discountRate": 76.0,
-      "price": 16.99,
-      "originalPrice": 69.99,
-      "notified_rate": 76.0,
-      "name": "Zapato náutico piel serraje",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17074430-TA-052?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/zapatos/zapatos-de-vestir/zapato-nautico-piel-serraje/17074430"
-    },
     "17041229": {
       "html_price": 27.99,
       "discountRate": 81.0,
@@ -1649,6 +1639,16 @@
       "name": "Camisa regular fit lyocell",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17041229-03-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/regular-fit/camisa-regular-fit-lyocell/17041229"
+    },
+    "17074430": {
+      "html_price": 55.99,
+      "discountRate": 76.0,
+      "price": 16.99,
+      "originalPrice": 69.99,
+      "notified_rate": 76.0,
+      "name": "Zapato náutico piel serraje",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/17074430-TA-052?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/zapatos/zapatos-de-vestir/zapato-nautico-piel-serraje/17074430"
     },
     "87080605": {
       "html_price": 24.99,
@@ -2420,16 +2420,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17031248-02-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisetas/polo-punto-fino-100-algodon/17031248"
     },
-    "17011231": {
-      "html_price": 27.99,
-      "discountRate": 50.0,
-      "price": 17.99,
-      "originalPrice": 35.99,
-      "notified_rate": null,
-      "name": "Jeans Jan slim fit blancos",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17064438-BB-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/vaqueros/slim/jeans-jan-slim-fit-blancos/17011231"
-    },
     "17021250": {
       "html_price": 39.99,
       "discountRate": 48.0,
@@ -2439,6 +2429,16 @@
       "name": null,
       "image_url": null,
       "url": null
+    },
+    "17011231": {
+      "html_price": 27.99,
+      "discountRate": 50.0,
+      "price": 17.99,
+      "originalPrice": 35.99,
+      "notified_rate": null,
+      "name": "Jeans Jan slim fit blancos",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/17064438-BB-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/vaqueros/slim/jeans-jan-slim-fit-blancos/17011231"
     },
     "87065919": {
       "html_price": 39.99,
@@ -2569,16 +2569,6 @@
       "name": "Camiseta lino slim fit",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17041211-01-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisetas/slim-fit/camiseta-lino-slim-fit_17041211"
-    },
-    "77030566": {
-      "html_price": 12.99,
-      "discountRate": 70.0,
-      "price": 17.99,
-      "originalPrice": 59.99,
-      "notified_rate": 70.0,
-      "name": "Pantalón mezcla lino rayas cordón",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/77030564-02-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/regular-fit/pantalon-mezcla-lino-rayas-cordon/77030566"
     },
     "87015922": {
       "html_price": 55.99,
@@ -3219,16 +3209,6 @@
       "name": "Camiseta punto canalé",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17061243-39-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisetas/basicas/camiseta-punto-canale/17061243"
-    },
-    "77052532": {
-      "html_price": 14.99,
-      "discountRate": 70.0,
-      "price": 14.99,
-      "originalPrice": 49.99,
-      "notified_rate": 70.0,
-      "name": "Pantalón slim fit lyocell pinzas",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/77052532-06-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/slim-fit/pantalon-slim-fit-lyocell-pinzas/77052532"
     },
     "17021207": {
       "html_price": 15.99,
@@ -4491,5 +4471,5 @@
       "url": "https://www.mangooutlet.com/es/es/p/hombre/corbatas-y-pajaritas/corbata-seda-diseno-geometrico/17011214"
     }
   },
-  "last_updated": "2026-05-20T08:24:26.616876+00:00"
+  "last_updated": "2026-05-20T11:24:58.460184+00:00"
 }
