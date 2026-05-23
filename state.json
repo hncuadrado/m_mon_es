@@ -10,6 +10,16 @@
       "image_url": null,
       "url": null
     },
+    "67036314": {
+      "html_price": 29.99,
+      "discountRate": 70.0,
+      "price": 29.99,
+      "originalPrice": 99.99,
+      "notified_rate": 70.0,
+      "name": "Americana slim fit algodón",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/67036314-56-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-casual/americana-slim-fit-algodon/67036314"
+    },
     "17056746": {
       "html_price": 9.99,
       "discountRate": 75.0,
@@ -255,6 +265,16 @@
       "discountRate": 33.0,
       "price": 11.99,
       "originalPrice": 17.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
+    },
+    "17031249": {
+      "html_price": 16.99,
+      "discountRate": 39.0,
+      "price": 16.99,
+      "originalPrice": 27.99,
       "notified_rate": null,
       "name": null,
       "image_url": null,
@@ -2320,6 +2340,16 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87037888-46-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/bermudas/bermudas-mezcla-lino-cordon_87037888"
     },
+    "87050604": {
+      "html_price": 14.99,
+      "discountRate": 50.0,
+      "price": 14.99,
+      "originalPrice": 29.99,
+      "notified_rate": 50.0,
+      "name": "Cinturón piel degradado",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87050604-CU-052?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/cinturones/cinturon-piel-degradado/87050604"
+    },
     "17044428": {
       "html_price": 17.99,
       "discountRate": 50.0,
@@ -3680,6 +3710,16 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/77064444-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-casual/americana-traje-slim-fit-bolsillos_77064444"
     },
+    "87084388": {
+      "html_price": 31.99,
+      "discountRate": 60.0,
+      "price": 31.99,
+      "originalPrice": 79.99,
+      "notified_rate": null,
+      "name": "Bomber waterproof tecnología COOLMAX®",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87084388-99-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/chaquetas/bomber-waterproof-tecnologia-coolmax/87084388"
+    },
     "77010577": {
       "html_price": 49.99,
       "discountRate": 50.0,
@@ -3919,6 +3959,16 @@
       "name": null,
       "image_url": null,
       "url": null
+    },
+    "77035149": {
+      "html_price": 19.99,
+      "discountRate": 80.0,
+      "price": 19.99,
+      "originalPrice": 99.99,
+      "notified_rate": 80.0,
+      "name": "Americana traje slim fit tejido comfort stretch",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/77035149-08-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-slim-fit-tejido-comfort-stretch/77035149"
     },
     "87077886": {
       "html_price": 77.99,
@@ -4319,6 +4369,16 @@
       "name": null,
       "image_url": null,
       "url": null
+    },
+    "87065923": {
+      "html_price": 14.99,
+      "discountRate": 50.0,
+      "price": 14.99,
+      "originalPrice": 29.99,
+      "notified_rate": null,
+      "name": "Camisa modal cuello bowling",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87065923-08-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/lisas/camisa-modal-cuello-bowling/87065923"
     },
     "17052923": {
       "html_price": 20.99,
@@ -4831,5 +4891,5 @@
       "url": "https://www.mangooutlet.com/es/es/p/hombre/corbatas-y-pajaritas/corbata-seda-diseno-geometrico/17011214"
     }
   },
-  "last_updated": "2026-05-23T07:26:10.868117+00:00"
+  "last_updated": "2026-05-23T09:18:42.717065+00:00"
 }
