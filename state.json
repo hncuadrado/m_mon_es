@@ -420,16 +420,6 @@
       "image_url": null,
       "url": null
     },
-    "17071212": {
-      "html_price": 22.99,
-      "discountRate": 54.0,
-      "price": 22.99,
-      "originalPrice": 49.99,
-      "notified_rate": 54.0,
-      "name": "Zapato piel serraje",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17071212-07-052?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/zapatos/zapatos-de-vestir/zapato-piel-serraje/17071212"
-    },
     "17062905": {
       "html_price": 24.99,
       "discountRate": 50.0,
@@ -439,6 +429,16 @@
       "name": "Bolso tote algodón bolsillo",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17062905-99-052?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/mochilas-y-bolsos/bolso-tote-algodon-bolsillo/17062905"
+    },
+    "17071212": {
+      "html_price": 22.99,
+      "discountRate": 54.0,
+      "price": 22.99,
+      "originalPrice": 49.99,
+      "notified_rate": 54.0,
+      "name": "Zapato piel serraje",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/17071212-07-052?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/zapatos/zapatos-de-vestir/zapato-piel-serraje/17071212"
     },
     "17082901": {
       "html_price": 29.99,
@@ -2660,16 +2660,6 @@
       "image_url": null,
       "url": null
     },
-    "17011231": {
-      "html_price": 17.99,
-      "discountRate": 50.0,
-      "price": 17.99,
-      "originalPrice": 35.99,
-      "notified_rate": null,
-      "name": "Jeans Jan slim fit blancos",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17064438-BB-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/vaqueros/slim/jeans-jan-slim-fit-blancos/17011231"
-    },
     "17021250": {
       "html_price": 25.99,
       "discountRate": 48.0,
@@ -2679,6 +2669,16 @@
       "name": null,
       "image_url": null,
       "url": null
+    },
+    "17011231": {
+      "html_price": 17.99,
+      "discountRate": 50.0,
+      "price": 17.99,
+      "originalPrice": 35.99,
+      "notified_rate": null,
+      "name": "Jeans Jan slim fit blancos",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/17064438-BB-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/vaqueros/slim/jeans-jan-slim-fit-blancos/17011231"
     },
     "87065919": {
       "html_price": 24.99,
@@ -3940,16 +3940,6 @@
       "image_url": null,
       "url": null
     },
-    "17051203": {
-      "html_price": 14.99,
-      "discountRate": 75.0,
-      "price": 14.99,
-      "originalPrice": 59.99,
-      "notified_rate": 75.0,
-      "name": "Bolso shopper asa ajustable",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17051203-07-052?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/mochilas-y-bolsos/bolso-shopper-asa-ajustable/17051203"
-    },
     "17052930": {
       "html_price": 27.99,
       "discountRate": 30.0,
@@ -3959,6 +3949,16 @@
       "name": null,
       "image_url": null,
       "url": null
+    },
+    "17051203": {
+      "html_price": 14.99,
+      "discountRate": 75.0,
+      "price": 14.99,
+      "originalPrice": 59.99,
+      "notified_rate": 75.0,
+      "name": "Bolso shopper asa ajustable",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/17051203-07-052?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/mochilas-y-bolsos/bolso-shopper-asa-ajustable/17051203"
     },
     "77010589": {
       "html_price": 25.99,
@@ -4069,6 +4069,16 @@
       "name": "Chaleco traje slim fit",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87050585-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/chalecos/chaleco-traje-slim-fit_87050585"
+    },
+    "67040628": {
+      "html_price": 29.99,
+      "discountRate": 70.0,
+      "price": 29.99,
+      "originalPrice": 99.99,
+      "notified_rate": 70.0,
+      "name": "Americana traje slim fit cruzada",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/67040628-99-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-slim-fit-cruzada/67040628"
     },
     "87090617": {
       "html_price": 11.99,
@@ -4791,5 +4801,5 @@
       "url": "https://www.mangooutlet.com/es/es/p/hombre/corbatas-y-pajaritas/corbata-seda-diseno-geometrico/17011214"
     }
   },
-  "last_updated": "2026-05-23T11:55:38.271513+00:00"
+  "last_updated": "2026-05-23T13:07:50.962322+00:00"
 }
