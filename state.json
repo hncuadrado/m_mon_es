@@ -710,16 +710,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17094415-02-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/vaqueros/tapered/jeans-lori-tapered-fit_17094415"
     },
-    "77020570": {
-      "html_price": 19.99,
-      "discountRate": 50.0,
-      "price": 19.99,
-      "originalPrice": 39.99,
-      "notified_rate": null,
-      "name": "Bermudas cáñamo lyocell pinzas",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/77020570-TC-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/bermudas/bermudas-canamo-lyocell-pinzas/77020570"
-    },
     "77065973": {
       "html_price": 35.99,
       "discountRate": 28.0,
@@ -1030,16 +1020,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17031284-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/banadores/banador-estampado-conchas_17031284"
     },
-    "87005941": {
-      "html_price": 11.99,
-      "discountRate": 70.0,
-      "price": 11.99,
-      "originalPrice": 39.99,
-      "notified_rate": 70.0,
-      "name": "Pantalón popelín algodón",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87005941-56-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/regular-fit/pantalon-popelin-algodon_87005941"
-    },
     "87025932": {
       "html_price": 49.99,
       "discountRate": 50.0,
@@ -1159,16 +1139,6 @@
       "name": "Chaqueta water-repellent COOLMAX®",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17061129-08-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/chaquetas/chaquetas/chaqueta-water-repellent-coolmax/17061129"
-    },
-    "17088271": {
-      "html_price": 17.99,
-      "discountRate": 40.0,
-      "price": 17.99,
-      "originalPrice": 29.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
     },
     "77056005": {
       "html_price": 89.99,
@@ -2319,16 +2289,6 @@
       "name": "Camisa bolsillos cuello bowling",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17071133-37-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-bolsillos-cuello-bowling/17071133"
-    },
-    "87025918": {
-      "html_price": 31.99,
-      "discountRate": 60.0,
-      "price": 31.99,
-      "originalPrice": 79.99,
-      "notified_rate": null,
-      "name": "Chaqueta algodón water repellent",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87025918-57-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/chaquetas/chaquetas/chaqueta-algodon-water-repellent/87025918"
     },
     "87035917": {
       "html_price": 19.99,
@@ -4631,5 +4591,5 @@
       "url": "https://www.mangooutlet.com/es/es/p/hombre/corbatas-y-pajaritas/corbata-seda-diseno-geometrico/17011214"
     }
   },
-  "last_updated": "2026-05-25T17:28:18.223010+00:00"
+  "last_updated": "2026-05-25T19:02:39.769078+00:00"
 }
