@@ -30,16 +30,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17041244-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-punto-canale/17041244"
     },
-    "87074797": {
-      "html_price": 12.99,
-      "discountRate": 50.0,
-      "price": 12.99,
-      "originalPrice": 25.99,
-      "notified_rate": null,
-      "name": "Gorra algodón visera",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87074797-56-052?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/gorras-y-bufandas/gorra-algodon-visera/87074797"
-    },
     "87062894": {
       "html_price": 49.99,
       "discountRate": 50.0,
@@ -510,16 +500,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17094415-02-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/vaqueros/tapered/jeans-lori-tapered-fit_17094415"
     },
-    "77065973": {
-      "html_price": 35.99,
-      "discountRate": 28.0,
-      "price": 35.99,
-      "originalPrice": 49.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "17012920": {
       "html_price": 31.99,
       "discountRate": 36.0,
@@ -529,6 +509,16 @@
       "name": null,
       "image_url": null,
       "url": null
+    },
+    "87074797": {
+      "html_price": 12.99,
+      "discountRate": 50.0,
+      "price": 12.99,
+      "originalPrice": 25.99,
+      "notified_rate": null,
+      "name": "Gorra algodón visera",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87074797-56-052?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/gorras-y-bufandas/gorra-algodon-visera/87074797"
     },
     "17025144": {
       "html_price": 24.99,
@@ -739,16 +729,6 @@
       "name": "Pantalón slim fit 100% algodón",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17071161-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/slim-fit/pantalon-slim-fit-100-algodon/17071161"
-    },
-    "77020600": {
-      "html_price": 21.99,
-      "discountRate": 39.0,
-      "price": 21.99,
-      "originalPrice": 35.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
     },
     "77007948": {
       "html_price": 31.99,
@@ -1529,16 +1509,6 @@
       "name": "Pack 2 slips básicos",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17091220-99-021?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/pijamas-y-ropa-interior/pack-2-slips-basicos/17091220"
-    },
-    "17051228": {
-      "html_price": 8.99,
-      "discountRate": 70.0,
-      "price": 8.99,
-      "originalPrice": 29.99,
-      "notified_rate": 70.0,
-      "name": "Camiseta lino slim fit rayas",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17051228-56-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisetas/slim-fit/camiseta-lino-slim-fit-rayas_17051228"
     },
     "87065922": {
       "html_price": 59.99,
@@ -2430,16 +2400,6 @@
       "image_url": null,
       "url": null
     },
-    "87027907": {
-      "html_price": 42.99,
-      "discountRate": 28.0,
-      "price": 42.99,
-      "originalPrice": 59.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "17016744": {
       "html_price": 21.99,
       "discountRate": 39.0,
@@ -2629,16 +2589,6 @@
       "name": "Camisa lyocell lino bowling",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17021230-50-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/lino/camisa-lyocell-lino-bowling/17021230"
-    },
-    "17054432": {
-      "html_price": 11.99,
-      "discountRate": 60.0,
-      "price": 11.99,
-      "originalPrice": 29.99,
-      "notified_rate": null,
-      "name": "Polo algodón relaxed fit",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17054432-56-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/polos/manga-corta/polo-algodon-relaxed-fit/17054432"
     },
     "77067912": {
       "html_price": 3.99,
@@ -3320,16 +3270,6 @@
       "image_url": null,
       "url": null
     },
-    "17051203": {
-      "html_price": 29.99,
-      "discountRate": 50.0,
-      "price": 29.99,
-      "originalPrice": 59.99,
-      "notified_rate": 75.0,
-      "name": "Bolso shopper asa ajustable",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17051203-07-052?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/mochilas-y-bolsos/bolso-shopper-asa-ajustable/17051203"
-    },
     "17052930": {
       "html_price": 15.99,
       "discountRate": 60.0,
@@ -3339,6 +3279,16 @@
       "name": "Camisa punto calado",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17052930-08-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-punto-calado/17052930"
+    },
+    "17051203": {
+      "html_price": 29.99,
+      "discountRate": 50.0,
+      "price": 29.99,
+      "originalPrice": 59.99,
+      "notified_rate": 75.0,
+      "name": "Bolso shopper asa ajustable",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/17051203-07-052?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/mochilas-y-bolsos/bolso-shopper-asa-ajustable/17051203"
     },
     "77010589": {
       "html_price": 25.99,
@@ -3549,16 +3499,6 @@
       "name": "Corbata seda diseño flores",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17016749-56-052?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/corbatas-y-pajaritas/corbata-seda-diseno-flores/17016749"
-    },
-    "87000624": {
-      "html_price": 9.99,
-      "discountRate": 72.0,
-      "price": 9.99,
-      "originalPrice": 35.99,
-      "notified_rate": 72.0,
-      "name": "Camisa 100% algodón estampada regular fit",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87000624-01-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-100-algodon-estampada-regular-fit/87000624"
     },
     "87035924": {
       "html_price": 19.99,
@@ -4151,5 +4091,5 @@
       "url": null
     }
   },
-  "last_updated": "2026-06-01T16:20:07.056803+00:00"
+  "last_updated": "2026-06-01T20:41:36.682918+00:00"
 }
