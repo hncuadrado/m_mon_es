@@ -50,16 +50,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17042926-02-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/polos/manga-corta/polo-punto-estructura/17042926"
     },
-    "77034434": {
-      "html_price": 29.99,
-      "discountRate": 70.0,
-      "price": 29.99,
-      "originalPrice": 99.99,
-      "notified_rate": 70.0,
-      "name": "Gabardina clásica water repellent",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/77034434-99-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/abrigos-y-gabardinas/parkas/gabardina-clasica-water-repellent/77034434"
-    },
     "17042893": {
       "html_price": 41.99,
       "discountRate": 40.0,
@@ -159,16 +149,6 @@
       "name": "Americana traje París super slim fit",
       "image_url": "https://media.mangooutlet.com/is/image/punto/67040625-99-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-paris-super-slim-fit/67040623"
-    },
-    "87020256": {
-      "html_price": 11.99,
-      "discountRate": 33.0,
-      "price": 11.99,
-      "originalPrice": 17.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
     },
     "77010642": {
       "html_price": 20.99,
@@ -930,16 +910,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/77090567-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/chalecos/chaleco-traje-slim-fit-tejido-stretch/77080568"
     },
-    "17061220": {
-      "html_price": 23.99,
-      "discountRate": 40.0,
-      "price": 23.99,
-      "originalPrice": 39.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "17084404": {
       "html_price": 16.99,
       "discountRate": 66.0,
@@ -1389,16 +1359,6 @@
       "name": "Camisa punto estructura",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17022924-99-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-punto-estructura/17022924"
-    },
-    "17041230": {
-      "html_price": 12.99,
-      "discountRate": 50.0,
-      "price": 12.99,
-      "originalPrice": 25.99,
-      "notified_rate": null,
-      "name": "Polo algodón piqué",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17041230-02-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/polos/manga-corta/polo-algodon-pique/17041230"
     },
     "77070569": {
       "html_price": 44.99,
@@ -1979,16 +1939,6 @@
       "name": "Camisa bolsillos cuello bowling",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17071133-37-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-bolsillos-cuello-bowling/17071133"
-    },
-    "87035917": {
-      "html_price": 19.99,
-      "discountRate": 60.0,
-      "price": 19.99,
-      "originalPrice": 49.99,
-      "notified_rate": null,
-      "name": "Pantalón mezcla lino regular fit",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87035917-08-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/lino/pantalon-mezcla-lino-regular-fit/87035917"
     },
     "17021274": {
       "html_price": 17.99,
@@ -2660,6 +2610,16 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17081240-99-052?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/carteras/tarjetero-abatanado-anti-contactless/17081240"
     },
+    "17011245": {
+      "html_price": 14.99,
+      "discountRate": 50.0,
+      "price": 14.99,
+      "originalPrice": 29.99,
+      "notified_rate": null,
+      "name": "Cinturón trenzado elástico",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/17011245-99-052?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/cinturones/cinturon-trenzado-elastico/17011245"
+    },
     "87095919": {
       "html_price": 49.99,
       "discountRate": 50.0,
@@ -3280,16 +3240,6 @@
       "image_url": null,
       "url": null
     },
-    "17052930": {
-      "html_price": 17.99,
-      "discountRate": 55.0,
-      "price": 17.99,
-      "originalPrice": 39.99,
-      "notified_rate": null,
-      "name": "Camisa punto calado",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17052930-08-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-punto-calado/17052930"
-    },
     "17051203": {
       "html_price": 35.99,
       "discountRate": 40.0,
@@ -3299,6 +3249,16 @@
       "name": "Bolso shopper asa ajustable",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17051203-07-052?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/mochilas-y-bolsos/bolso-shopper-asa-ajustable/17051203"
+    },
+    "17052930": {
+      "html_price": 17.99,
+      "discountRate": 55.0,
+      "price": 17.99,
+      "originalPrice": 39.99,
+      "notified_rate": null,
+      "name": "Camisa punto calado",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/17052930-08-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-punto-calado/17052930"
     },
     "77010589": {
       "html_price": 77.99,
@@ -4061,5 +4021,5 @@
       "url": null
     }
   },
-  "last_updated": "2026-06-03T23:27:51.269315+00:00"
+  "last_updated": "2026-06-04T02:05:15.044588+00:00"
 }
