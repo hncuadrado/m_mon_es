@@ -710,16 +710,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17071161-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/slim-fit/pantalon-slim-fit-100-algodon/17071161"
     },
-    "77007948": {
-      "html_price": 15.99,
-      "discountRate": 65.0,
-      "price": 15.99,
-      "originalPrice": 45.99,
-      "notified_rate": null,
-      "name": "Polo punto algodón",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/77007948-60-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/cardigans-y-jerseis/polo-punto-algodon/77007948"
-    },
     "17091132": {
       "html_price": 22.99,
       "discountRate": 50.0,
@@ -2030,16 +2020,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17061273-68-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-manga-corta-estampada/17061273"
     },
-    "87089211": {
-      "html_price": 24.99,
-      "discountRate": 31.0,
-      "price": 24.99,
-      "originalPrice": 35.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "17051230": {
       "html_price": 11.99,
       "discountRate": 60.0,
@@ -2179,6 +2159,16 @@
       "name": "Jeans Jan slim fit blancos",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17064438-BB-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/vaqueros/slim/jeans-jan-slim-fit-blancos/17011231"
+    },
+    "67099218": {
+      "html_price": 14.99,
+      "discountRate": 70.0,
+      "price": 14.99,
+      "originalPrice": 49.99,
+      "notified_rate": 70.0,
+      "name": "Sobrecamisa 100% algodón bolsillo",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/67099218-10-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-100-algodon-bolsillo/67099218"
     },
     "87057898": {
       "html_price": 17.99,
@@ -2959,16 +2949,6 @@
       "name": "Americana traje slim fit tejido comfort stretch",
       "image_url": "https://media.mangooutlet.com/is/image/punto/77080567-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-slim-fit-tejido-comfort-stretch/77020574"
-    },
-    "17041249": {
-      "html_price": 23.99,
-      "discountRate": 40.0,
-      "price": 23.99,
-      "originalPrice": 39.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
     },
     "77037920": {
       "html_price": 35.99,
@@ -4101,5 +4081,5 @@
       "url": null
     }
   },
-  "last_updated": "2026-06-04T22:52:35.250561+00:00"
+  "last_updated": "2026-06-04T23:59:42.179159+00:00"
 }
