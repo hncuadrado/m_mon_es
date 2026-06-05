@@ -720,6 +720,16 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17031204-99-052?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/mochilas-y-bolsos/bolso-tote-algodon_17031204"
     },
+    "77025967": {
+      "html_price": 19.99,
+      "discountRate": 60.0,
+      "price": 19.99,
+      "originalPrice": 49.99,
+      "notified_rate": null,
+      "name": "Pantalón regular fit algodón tencel",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/77025967-56-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/pantalon-regular-fit-algodon-tencel/77025967"
+    },
     "17094403": {
       "html_price": 17.99,
       "discountRate": 70.0,
@@ -1220,16 +1230,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17026740-45-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-relaxed-fit-fluida-estampada/17026740"
     },
-    "77005981": {
-      "html_price": 11.99,
-      "discountRate": 70.0,
-      "price": 11.99,
-      "originalPrice": 39.99,
-      "notified_rate": 70.0,
-      "name": "Jersey punto algodón canalé",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/77005981-65-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/cardigans-y-jerseis/jerseis/jersey-punto-algodon-canale/77005981"
-    },
     "17076739": {
       "html_price": 20.99,
       "discountRate": 42.0,
@@ -1370,16 +1370,6 @@
       "image_url": null,
       "url": null
     },
-    "77000592": {
-      "html_price": 29.99,
-      "discountRate": 50.0,
-      "price": 29.99,
-      "originalPrice": 59.99,
-      "notified_rate": null,
-      "name": "Pantalón traje slim fit tejido comfort stretch",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/77000592-52-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/de-traje/pantalon-traje-slim-fit-tejido-comfort-stretch/77000592"
-    },
     "67015984": {
       "html_price": 19.99,
       "discountRate": 80.0,
@@ -1389,6 +1379,16 @@
       "name": "Americana traje slim fit tejido comfort stretch",
       "image_url": "https://media.mangooutlet.com/is/image/punto/67015984-69-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-slim-fit-tejido-comfort-stretch/67015984"
+    },
+    "77000592": {
+      "html_price": 29.99,
+      "discountRate": 50.0,
+      "price": 29.99,
+      "originalPrice": 59.99,
+      "notified_rate": null,
+      "name": "Pantalón traje slim fit tejido comfort stretch",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/77000592-52-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/de-traje/pantalon-traje-slim-fit-tejido-comfort-stretch/77000592"
     },
     "17042929": {
       "html_price": 19.99,
@@ -1760,16 +1760,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17041197-08-052?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/zapatos/deportivas/deportivas-combinadas-piel/17041197"
     },
-    "77047924": {
-      "html_price": 11.99,
-      "discountRate": 80.0,
-      "price": 11.99,
-      "originalPrice": 59.99,
-      "notified_rate": 80.0,
-      "name": "Sobrecamisa lana cuadros",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/77047924-56-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-lana-cuadros/77047924"
-    },
     "87075933": {
       "html_price": 23.99,
       "discountRate": 40.0,
@@ -2009,16 +1999,6 @@
       "name": "Americana traje solapas satinadas",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87027889-99-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-solapas-satinadas/87027889"
-    },
-    "87079204": {
-      "html_price": 21.99,
-      "discountRate": 56.0,
-      "price": 21.99,
-      "originalPrice": 49.99,
-      "notified_rate": 56.0,
-      "name": "Pantalón mezcla lino cintura elástica",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87079204-04-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/lino/pantalon-mezcla-lino-cintura-elastica/87079204"
     },
     "17011215": {
       "html_price": 13.99,
@@ -2780,16 +2760,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/77047918-30-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-casual/americana-cruzada-franela-lana-virgen/77047918"
     },
-    "17041247": {
-      "html_price": 12.99,
-      "discountRate": 43.0,
-      "price": 12.99,
-      "originalPrice": 22.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "87015922": {
       "html_price": 30.99,
       "discountRate": 56.0,
@@ -2850,16 +2820,6 @@
       "image_url": null,
       "url": null
     },
-    "17074447": {
-      "html_price": 13.99,
-      "discountRate": 65.0,
-      "price": 13.99,
-      "originalPrice": 39.99,
-      "notified_rate": null,
-      "name": "Camisa estampada cuello bowling",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17074447-06-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-estampada-cuello-bowling/17074447"
-    },
     "17097761": {
       "html_price": 15.99,
       "discountRate": 30.0,
@@ -2869,6 +2829,16 @@
       "name": null,
       "image_url": null,
       "url": null
+    },
+    "17074447": {
+      "html_price": 13.99,
+      "discountRate": 65.0,
+      "price": 13.99,
+      "originalPrice": 39.99,
+      "notified_rate": null,
+      "name": "Camisa estampada cuello bowling",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/17074447-06-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-estampada-cuello-bowling/17074447"
     },
     "67040624": {
       "html_price": 59.99,
@@ -3930,16 +3900,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17044425-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/polos/manga-corta/polo-punto-algodon/17044425"
     },
-    "77030573": {
-      "html_price": 15.99,
-      "discountRate": 60.0,
-      "price": 15.99,
-      "originalPrice": 39.99,
-      "notified_rate": null,
-      "name": "Camisa traje slim fit algodón estructura",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/77030573-01-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/vestir/camisa-traje-slim-fit-algodon-estructura/77030573"
-    },
     "17031244": {
       "html_price": 24.99,
       "discountRate": 31.0,
@@ -3990,16 +3950,6 @@
       "image_url": null,
       "url": null
     },
-    "17051203": {
-      "html_price": 35.99,
-      "discountRate": 40.0,
-      "price": 35.99,
-      "originalPrice": 59.99,
-      "notified_rate": 75.0,
-      "name": "Bolso shopper asa ajustable",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17051203-07-052?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/mochilas-y-bolsos/bolso-shopper-asa-ajustable/17051203"
-    },
     "17052930": {
       "html_price": 17.99,
       "discountRate": 55.0,
@@ -4009,6 +3959,16 @@
       "name": "Camisa punto calado",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17052930-08-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-punto-calado/17052930"
+    },
+    "17051203": {
+      "html_price": 35.99,
+      "discountRate": 40.0,
+      "price": 35.99,
+      "originalPrice": 59.99,
+      "notified_rate": 75.0,
+      "name": "Bolso shopper asa ajustable",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/17051203-07-052?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/mochilas-y-bolsos/bolso-shopper-asa-ajustable/17051203"
     },
     "77010589": {
       "html_price": 77.99,
@@ -4791,5 +4751,5 @@
       "url": "https://www.mangooutlet.com/es/es/p/hombre/corbatas-y-pajaritas/corbata-seda-diseno-geometrico/17011214"
     }
   },
-  "last_updated": "2026-06-05T21:03:06.673052+00:00"
+  "last_updated": "2026-06-05T22:39:04.585162+00:00"
 }
