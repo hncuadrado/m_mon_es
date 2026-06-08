@@ -640,6 +640,16 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/77025967-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/pantalon-regular-fit-algodon-tencel/77025967"
     },
+    "67060621": {
+      "html_price": 9.99,
+      "discountRate": 80.0,
+      "price": 9.99,
+      "originalPrice": 49.99,
+      "notified_rate": 80.0,
+      "name": "Chaleco traje super slim fit tejido stretch",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/67060621-99-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/chalecos/chaleco-traje-super-slim-fit-tejido-stretch/67060621"
+    },
     "17094403": {
       "html_price": 17.99,
       "discountRate": 70.0,
@@ -950,16 +960,6 @@
       "image_url": null,
       "url": null
     },
-    "67079220": {
-      "html_price": 8.99,
-      "discountRate": 85.0,
-      "price": 8.99,
-      "originalPrice": 59.99,
-      "notified_rate": 85.0,
-      "name": "Sobrecamisa slim fit tencel lino",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/67079220-28-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-slim-fit-tencel-lino/67079220"
-    },
     "77022535": {
       "html_price": 16.99,
       "discountRate": 76.0,
@@ -969,6 +969,16 @@
       "name": "Sobrecamisa mezcla tencel lino",
       "image_url": "https://media.mangooutlet.com/is/image/punto/77022535-95-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-mezcla-tencel-lino_77022535"
+    },
+    "67079220": {
+      "html_price": 8.99,
+      "discountRate": 85.0,
+      "price": 8.99,
+      "originalPrice": 59.99,
+      "notified_rate": 85.0,
+      "name": "Sobrecamisa slim fit tencel lino",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/67079220-28-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-slim-fit-tencel-lino/67079220"
     },
     "77080568": {
       "html_price": 24.99,
@@ -1149,16 +1159,6 @@
       "name": "Bañador multirayas",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17021285-52-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/banadores/banador-multirayas/17021285"
-    },
-    "17031243": {
-      "html_price": 24.99,
-      "discountRate": 31.0,
-      "price": 24.99,
-      "originalPrice": 35.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
     },
     "17031186": {
       "html_price": 35.99,
@@ -1750,16 +1750,6 @@
       "image_url": null,
       "url": null
     },
-    "87047887": {
-      "html_price": 35.99,
-      "discountRate": 40.0,
-      "price": 35.99,
-      "originalPrice": 59.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "87027889": {
       "html_price": 64.99,
       "discountRate": 50.0,
@@ -1769,6 +1759,16 @@
       "name": "Americana traje solapas satinadas",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87027889-99-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-solapas-satinadas/87027889"
+    },
+    "87047887": {
+      "html_price": 35.99,
+      "discountRate": 40.0,
+      "price": 35.99,
+      "originalPrice": 59.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
     },
     "17011215": {
       "html_price": 13.99,
@@ -4120,16 +4120,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17061248-99-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/cardigans-y-jerseis/jerseis/jersey-algodon-punto-fino-canale_17061248"
     },
-    "77079227": {
-      "html_price": 29.99,
-      "discountRate": 40.0,
-      "price": 29.99,
-      "originalPrice": 49.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "67035981": {
       "html_price": 61.99,
       "discountRate": 52.0,
@@ -4421,5 +4411,5 @@
       "url": "https://www.mangooutlet.com/es/es/p/hombre/gafas-de-sol/gafas-de-sol-montura-redonda/87070605"
     }
   },
-  "last_updated": "2026-06-08T17:18:13.014967+00:00"
+  "last_updated": "2026-06-08T19:38:01.977068+00:00"
 }
