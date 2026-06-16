@@ -80,16 +80,6 @@
       "image_url": null,
       "url": null
     },
-    "87090600": {
-      "html_price": 31.99,
-      "discountRate": 20.0,
-      "price": 31.99,
-      "originalPrice": 39.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "17042893": {
       "html_price": 55.99,
       "discountRate": 20.0,
@@ -4060,16 +4050,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17091247-01-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/regular-fit/camisa-lino-bolsillo/17091247"
     },
-    "77037926": {
-      "html_price": 15.99,
-      "discountRate": 60.0,
-      "price": 15.99,
-      "originalPrice": 39.99,
-      "notified_rate": null,
-      "name": "Camisa slim fit 100% algodón franela",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/77037926-07-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/slim-fit/camisa-slim-fit-100-algodon-franela/77037926"
-    },
     "87000619": {
       "html_price": 35.99,
       "discountRate": 22.0,
@@ -4079,6 +4059,16 @@
       "name": null,
       "image_url": null,
       "url": null
+    },
+    "77037926": {
+      "html_price": 15.99,
+      "discountRate": 60.0,
+      "price": 15.99,
+      "originalPrice": 39.99,
+      "notified_rate": null,
+      "name": "Camisa slim fit 100% algodón franela",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/77037926-07-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/slim-fit/camisa-slim-fit-100-algodon-franela/77037926"
     },
     "87095929": {
       "html_price": 31.99,
@@ -5091,5 +5081,5 @@
       "url": null
     }
   },
-  "last_updated": "2026-06-16T15:30:05.562197+00:00"
+  "last_updated": "2026-06-16T19:00:29.441932+00:00"
 }
