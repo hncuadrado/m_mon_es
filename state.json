@@ -120,16 +120,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87004414-99-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/cardigans-y-jerseis/jerseis/jersey-100-algodon-punto-calado_87004414"
     },
-    "77090584": {
-      "html_price": 11.99,
-      "discountRate": 40.0,
-      "price": 11.99,
-      "originalPrice": 19.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "67050622": {
       "html_price": 19.99,
       "discountRate": 80.0,
@@ -400,16 +390,6 @@
       "image_url": null,
       "url": null
     },
-    "17062905": {
-      "html_price": 24.99,
-      "discountRate": 50.0,
-      "price": 24.99,
-      "originalPrice": 49.99,
-      "notified_rate": null,
-      "name": "Bolso tote algodón bolsillo",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17062905-99-052?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/mochilas-y-bolsos/bolso-tote-algodon-bolsillo/17062905"
-    },
     "17071212": {
       "html_price": 29.99,
       "discountRate": 40.0,
@@ -419,6 +399,16 @@
       "name": null,
       "image_url": null,
       "url": null
+    },
+    "17062905": {
+      "html_price": 24.99,
+      "discountRate": 50.0,
+      "price": 24.99,
+      "originalPrice": 49.99,
+      "notified_rate": null,
+      "name": "Bolso tote algodón bolsillo",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/17062905-99-052?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/mochilas-y-bolsos/bolso-tote-algodon-bolsillo/17062905"
     },
     "17031179": {
       "html_price": 39.99,
@@ -740,16 +730,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/77070612-99-052?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/corbatas-y-pajaritas/pajarita-clasica-microestructura/77070612"
     },
-    "87060584": {
-      "html_price": 71.99,
-      "discountRate": 28.0,
-      "price": 71.99,
-      "originalPrice": 99.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "87025920": {
       "html_price": 13.99,
       "discountRate": 80.0,
@@ -759,6 +739,16 @@
       "name": "Chaqueta 100% lino cuello alto",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87025920-99-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/chaquetas/chaquetas/chaqueta-100-lino-cuello-alto_87025920"
+    },
+    "87060584": {
+      "html_price": 71.99,
+      "discountRate": 28.0,
+      "price": 71.99,
+      "originalPrice": 99.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
     },
     "17055975": {
       "html_price": 27.99,
@@ -1080,16 +1070,6 @@
       "image_url": null,
       "url": null
     },
-    "17061129": {
-      "html_price": 35.99,
-      "discountRate": 60.0,
-      "price": 35.99,
-      "originalPrice": 89.99,
-      "notified_rate": 76.0,
-      "name": "Chaqueta water-repellent COOLMAX®",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17061129-08-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/chaquetas/chaquetas/chaqueta-water-repellent-coolmax/17061129"
-    },
     "17088271": {
       "html_price": 11.99,
       "discountRate": 60.0,
@@ -1099,6 +1079,16 @@
       "name": "Cinturón piel hebilla",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17088271-30-052?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/cinturones/cinturon-piel-hebilla/17088271"
+    },
+    "17061129": {
+      "html_price": 35.99,
+      "discountRate": 60.0,
+      "price": 35.99,
+      "originalPrice": 89.99,
+      "notified_rate": 76.0,
+      "name": "Chaqueta water-repellent COOLMAX®",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/17061129-08-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/chaquetas/chaquetas/chaqueta-water-repellent-coolmax/17061129"
     },
     "77056005": {
       "html_price": 89.99,
@@ -3860,16 +3850,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17091247-01-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/regular-fit/camisa-lino-bolsillo/17091247"
     },
-    "77037926": {
-      "html_price": 23.99,
-      "discountRate": 40.0,
-      "price": 23.99,
-      "originalPrice": 39.99,
-      "notified_rate": null,
-      "name": "Camisa slim fit 100% algodón franela",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/77037926-07-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/slim-fit/camisa-slim-fit-100-algodon-franela/77037926"
-    },
     "87000619": {
       "html_price": 24.99,
       "discountRate": 46.0,
@@ -3879,6 +3859,16 @@
       "name": null,
       "image_url": null,
       "url": null
+    },
+    "77037926": {
+      "html_price": 23.99,
+      "discountRate": 40.0,
+      "price": 23.99,
+      "originalPrice": 39.99,
+      "notified_rate": null,
+      "name": "Camisa slim fit 100% algodón franela",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/77037926-07-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/slim-fit/camisa-slim-fit-100-algodon-franela/77037926"
     },
     "87095929": {
       "html_price": 13.99,
@@ -4670,16 +4660,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87030587-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-milan-slim-fit_87090601"
     },
-    "17054416": {
-      "html_price": 20.99,
-      "discountRate": 65.0,
-      "price": 20.99,
-      "originalPrice": 59.99,
-      "notified_rate": null,
-      "name": "Chaqueta vaquera 100% algodón",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17054416-02-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/chaquetas/chaquetas/chaqueta-vaquera-100-algodon_17054416"
-    },
     "17051242": {
       "html_price": 11.99,
       "discountRate": 60.0,
@@ -4689,6 +4669,16 @@
       "name": "Polo punto calado cremallera",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17051242-08-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/polos/manga-corta/polo-punto-calado-cremallera/17051242"
+    },
+    "17054416": {
+      "html_price": 20.99,
+      "discountRate": 65.0,
+      "price": 20.99,
+      "originalPrice": 59.99,
+      "notified_rate": null,
+      "name": "Chaqueta vaquera 100% algodón",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/17054416-02-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/chaquetas/chaquetas/chaqueta-vaquera-100-algodon_17054416"
     },
     "17041241": {
       "html_price": 14.99,
@@ -4851,5 +4841,5 @@
       "url": "https://www.mangooutlet.com/es/es/p/hombre/vaqueros/jeans-bob-regular-fit/87034399"
     }
   },
-  "last_updated": "2026-06-18T09:09:54.117433+00:00"
+  "last_updated": "2026-06-18T12:35:10.281208+00:00"
 }
