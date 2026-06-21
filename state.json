@@ -130,16 +130,6 @@
       "image_url": null,
       "url": null
     },
-    "17061194": {
-      "html_price": 11.99,
-      "discountRate": 60.0,
-      "price": 11.99,
-      "originalPrice": 29.99,
-      "notified_rate": null,
-      "name": "Gafas de sol montura redonda",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17061194-99-052?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/gafas-de-sol/gafas-de-sol-montura-redonda/17061194"
-    },
     "87004414": {
       "html_price": 14.99,
       "discountRate": 70.0,
@@ -880,6 +870,16 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87099218-04-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/bermudas/bermudas-algodon-lyocell/87099218"
     },
+    "17061194": {
+      "html_price": 11.99,
+      "discountRate": 60.0,
+      "price": 11.99,
+      "originalPrice": 29.99,
+      "notified_rate": null,
+      "name": "Gafas de sol montura redonda",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/17061194-99-052?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/gafas-de-sol/gafas-de-sol-montura-redonda/17061194"
+    },
     "87025932": {
       "html_price": 34.99,
       "discountRate": 65.0,
@@ -985,16 +985,6 @@
       "discountRate": 39.0,
       "price": 21.99,
       "originalPrice": 35.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
-    "77000587": {
-      "html_price": 29.99,
-      "discountRate": 40.0,
-      "price": 29.99,
-      "originalPrice": 49.99,
       "notified_rate": null,
       "name": null,
       "image_url": null,
@@ -1579,16 +1569,6 @@
       "name": "Camisa algodón rayas",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87039219-04-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-algodon-rayas/87039219"
-    },
-    "87052888": {
-      "html_price": 9.99,
-      "discountRate": 75.0,
-      "price": 9.99,
-      "originalPrice": 39.99,
-      "notified_rate": 75.0,
-      "name": "Pantalón Barna slim fit chino sarga",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87052888-56-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/chinos/pantalon-barna-slim-fit-chino-sarga/87052888"
     },
     "87060627": {
       "html_price": 71.99,
@@ -2709,16 +2689,6 @@
       "name": "Bañador estampado corales",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17011287-87-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/banadores/banador-estampado-corales/17011287"
-    },
-    "87010601": {
-      "html_price": 9.99,
-      "discountRate": 72.0,
-      "price": 9.99,
-      "originalPrice": 35.99,
-      "notified_rate": 72.0,
-      "name": "Jersey polo punto algodón microestructura",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87010601-56-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/cardigans-y-jerseis/jerseis/jersey-polo-punto-algodon-microestructura/87010601"
     },
     "87080602": {
       "html_price": 14.99,
@@ -3980,16 +3950,6 @@
       "image_url": null,
       "url": null
     },
-    "87094387": {
-      "html_price": 12.99,
-      "discountRate": 72.0,
-      "price": 12.99,
-      "originalPrice": 45.99,
-      "notified_rate": 72.0,
-      "name": "Pantalón Dublino chino slim fit",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87094387-57-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/chinos/pantalon-dublino-chino-slim-fit/87094387"
-    },
     "87095929": {
       "html_price": 13.99,
       "discountRate": 65.0,
@@ -5001,5 +4961,5 @@
       "url": "https://www.mangooutlet.com/es/es/p/hombre/corbatas-y-pajaritas/corbata-seda-diseno-geometrico/17011214"
     }
   },
-  "last_updated": "2026-06-20T23:41:42.184530+00:00"
+  "last_updated": "2026-06-21T08:54:11.942903+00:00"
 }
