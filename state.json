@@ -130,6 +130,16 @@
       "image_url": null,
       "url": null
     },
+    "67050622": {
+      "html_price": 19.99,
+      "discountRate": 80.0,
+      "price": 19.99,
+      "originalPrice": 99.99,
+      "notified_rate": 80.0,
+      "name": "Americana traje París super slim fit",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/67040624-55-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-paris-super-slim-fit/67050622"
+    },
     "87020575": {
       "html_price": 41.99,
       "discountRate": 40.0,
@@ -559,16 +569,6 @@
       "name": "Jeans Lori tapered fit",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17094415-02-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/vaqueros/tapered/jeans-lori-tapered-fit_17094415"
-    },
-    "87057897": {
-      "html_price": 23.99,
-      "discountRate": 60.0,
-      "price": 23.99,
-      "originalPrice": 59.99,
-      "notified_rate": null,
-      "name": "Jersey fluido 100% lino",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87057897-45-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/cardigans-y-jerseis/jerseis/jersey-fluido-100-lino/87057897"
     },
     "17012920": {
       "html_price": 31.99,
@@ -1189,6 +1189,16 @@
       "name": null,
       "image_url": null,
       "url": null
+    },
+    "77047113": {
+      "html_price": 7.99,
+      "discountRate": 73.0,
+      "price": 7.99,
+      "originalPrice": 29.99,
+      "notified_rate": 73.0,
+      "name": "Bufanda bicolor flecos",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/77047113-35-052?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/gorras-y-bufandas/bufanda-bicolor-flecos/77047113"
     },
     "87080594": {
       "html_price": 24.99,
@@ -2059,16 +2069,6 @@
       "name": "Americana traje Milán cuadro Gales",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87030587-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-milan-cuadro-gales/87030588"
-    },
-    "87040622": {
-      "html_price": 6.99,
-      "discountRate": 81.0,
-      "price": 6.99,
-      "originalPrice": 35.99,
-      "notified_rate": 81.0,
-      "name": "Camisa estampada regular fit",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87040622-52-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-estampada-regular-fit/87040622"
     },
     "87045923": {
       "html_price": 19.99,
@@ -4060,16 +4060,6 @@
       "image_url": null,
       "url": null
     },
-    "17011212": {
-      "html_price": 12.99,
-      "discountRate": 43.0,
-      "price": 12.99,
-      "originalPrice": 22.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "87044389": {
       "html_price": 92.99,
       "discountRate": 28.0,
@@ -4510,16 +4500,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87030587-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-milan-slim-fit_87090601"
     },
-    "17051242": {
-      "html_price": 11.99,
-      "discountRate": 60.0,
-      "price": 11.99,
-      "originalPrice": 29.99,
-      "notified_rate": null,
-      "name": "Polo punto calado cremallera",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17051242-08-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/polos/manga-corta/polo-punto-calado-cremallera/17051242"
-    },
     "17054416": {
       "html_price": 20.99,
       "discountRate": 65.0,
@@ -4529,6 +4509,16 @@
       "name": "Chaqueta vaquera 100% algodón",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17054416-02-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/chaquetas/chaquetas/chaqueta-vaquera-100-algodon_17054416"
+    },
+    "17051242": {
+      "html_price": 11.99,
+      "discountRate": 60.0,
+      "price": 11.99,
+      "originalPrice": 29.99,
+      "notified_rate": null,
+      "name": "Polo punto calado cremallera",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/17051242-08-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/polos/manga-corta/polo-punto-calado-cremallera/17051242"
     },
     "87007909": {
       "html_price": 34.99,
@@ -4550,16 +4540,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17041241-99-052?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/cinturones/cinturon-piel-abatanada/17041241"
     },
-    "87044387": {
-      "html_price": 29.99,
-      "discountRate": 50.0,
-      "price": 29.99,
-      "originalPrice": 59.99,
-      "notified_rate": null,
-      "name": "Cazadora biker efecto ante",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87044387-37-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/chaquetas/cazadoras/cazadora-biker-efecto-ante/87044387"
-    },
     "87050622": {
       "html_price": 49.99,
       "discountRate": 50.0,
@@ -4569,6 +4549,16 @@
       "name": "Americana traje París super slim fit",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87060623-16-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-paris-super-slim-fit/87050622"
+    },
+    "87044387": {
+      "html_price": 29.99,
+      "discountRate": 50.0,
+      "price": 29.99,
+      "originalPrice": 59.99,
+      "notified_rate": null,
+      "name": "Cazadora biker efecto ante",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87044387-37-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/chaquetas/cazadoras/cazadora-biker-efecto-ante/87044387"
     },
     "17022894": {
       "html_price": 29.99,
@@ -4701,5 +4691,5 @@
       "url": "https://www.mangooutlet.com/es/es/p/hombre/corbatas-y-pajaritas/corbata-seda-diseno-geometrico/17011214"
     }
   },
-  "last_updated": "2026-06-22T10:32:49.798954+00:00"
+  "last_updated": "2026-06-22T15:47:23.081224+00:00"
 }
