@@ -90,6 +90,26 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87004414-99-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/cardigans-y-jerseis/jerseis/jersey-100-algodon-punto-calado/87004414"
     },
+    "87097907": {
+      "html_price": 14.99,
+      "discountRate": 70.0,
+      "price": 14.99,
+      "originalPrice": 49.99,
+      "notified_rate": 70.0,
+      "name": "Polo cuello bowing lyocell",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87097907-59-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/polos/manga-corta/polo-cuello-bowing-lyocell/87097907"
+    },
+    "87029205": {
+      "html_price": 23.99,
+      "discountRate": 60.0,
+      "price": 23.99,
+      "originalPrice": 59.99,
+      "notified_rate": 60.0,
+      "name": "Pantalón lino raya diplomática",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87029205-08-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/lino/pantalon-lino-raya-diplomatica/87029205"
+    },
     "77062534": {
       "html_price": 47.99,
       "discountRate": 60.0,
@@ -119,16 +139,6 @@
       "name": "Pantalón traje Milán slim fit",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17071234-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/de-traje/pantalon-traje-milan-slim-fit/17031180"
-    },
-    "67040623": {
-      "html_price": 49.99,
-      "discountRate": 50.0,
-      "price": 49.99,
-      "originalPrice": 99.99,
-      "notified_rate": null,
-      "name": "Americana traje París super slim fit",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/67040624-55-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-paris-super-slim-fit/67040623"
     },
     "77010642": {
       "html_price": 20.99,
@@ -370,16 +380,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87030251-01-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/polos/manga-corta/polo-100-algodon-bordado-grafico-pecho/87030251"
     },
-    "17041191": {
-      "html_price": 24.99,
-      "discountRate": 50.0,
-      "price": 24.99,
-      "originalPrice": 49.99,
-      "notified_rate": null,
-      "name": "Pantalón traje París super slim fit",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17021237-55-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/de-traje/pantalon-traje-paris-super-slim-fit/17041191"
-    },
     "17041184": {
       "html_price": 79.99,
       "discountRate": 20.0,
@@ -389,6 +389,16 @@
       "name": null,
       "image_url": null,
       "url": null
+    },
+    "17041191": {
+      "html_price": 24.99,
+      "discountRate": 50.0,
+      "price": 24.99,
+      "originalPrice": 49.99,
+      "notified_rate": null,
+      "name": "Pantalón traje París super slim fit",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/17021237-55-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/de-traje/pantalon-traje-paris-super-slim-fit/17041191"
     },
     "17055146": {
       "html_price": 39.99,
@@ -650,16 +660,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17098265-96-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/regular-fit/pantalon-100-lana-virgen-regular-fit-rayas/17098265"
     },
-    "77045148": {
-      "html_price": 19.99,
-      "discountRate": 80.0,
-      "price": 19.99,
-      "originalPrice": 99.99,
-      "notified_rate": 80.0,
-      "name": "Americana traje slim fit tejido comfort stretch",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/77035149-08-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-slim-fit-tejido-comfort-stretch/77045148"
-    },
     "87000617": {
       "html_price": 26.99,
       "discountRate": 41.0,
@@ -669,6 +669,16 @@
       "name": null,
       "image_url": null,
       "url": null
+    },
+    "77045148": {
+      "html_price": 19.99,
+      "discountRate": 80.0,
+      "price": 19.99,
+      "originalPrice": 99.99,
+      "notified_rate": 80.0,
+      "name": "Americana traje slim fit tejido comfort stretch",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/77035149-08-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-slim-fit-tejido-comfort-stretch/77045148"
     },
     "17031237": {
       "html_price": 11.99,
@@ -830,6 +840,16 @@
       "image_url": null,
       "url": null
     },
+    "87067888": {
+      "html_price": 9.99,
+      "discountRate": 67.0,
+      "price": 9.99,
+      "originalPrice": 29.99,
+      "notified_rate": null,
+      "name": "Camiseta lino botones",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87067888-04-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisetas/slim-fit/camiseta-lino-botones/87067888"
+    },
     "17061129": {
       "html_price": 35.99,
       "discountRate": 60.0,
@@ -850,16 +870,6 @@
       "image_url": null,
       "url": null
     },
-    "77022535": {
-      "html_price": 16.99,
-      "discountRate": 76.0,
-      "price": 16.99,
-      "originalPrice": 69.99,
-      "notified_rate": 76.0,
-      "name": "Sobrecamisa mezcla tencel lino",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/77022535-95-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-mezcla-tencel-lino_77022535"
-    },
     "67079220": {
       "html_price": 8.99,
       "discountRate": 85.0,
@@ -869,6 +879,16 @@
       "name": "Sobrecamisa slim fit tencel lino",
       "image_url": "https://media.mangooutlet.com/is/image/punto/67079220-28-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-slim-fit-tencel-lino/67079220"
+    },
+    "77022535": {
+      "html_price": 16.99,
+      "discountRate": 76.0,
+      "price": 16.99,
+      "originalPrice": 69.99,
+      "notified_rate": 76.0,
+      "name": "Sobrecamisa mezcla tencel lino",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/77022535-95-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-mezcla-tencel-lino_77022535"
     },
     "17011225": {
       "html_price": 13.99,
@@ -1229,6 +1249,16 @@
       "name": "Polo regular fit algodón piqué",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17051273-01-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/polos/manga-corta/polo-regular-fit-algodon-pique/17051273"
+    },
+    "17031204": {
+      "html_price": 8.99,
+      "discountRate": 70.0,
+      "price": 8.99,
+      "originalPrice": 29.99,
+      "notified_rate": 70.0,
+      "name": "Bolso tote algodón",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/17031204-99-052?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/mochilas-y-bolsos/bolso-tote-algodon_17031204"
     },
     "87047897": {
       "html_price": 17.99,
@@ -1790,6 +1820,16 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17091148-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/slim-fit/pantalon-algodon-tapered-crop/17091148"
     },
+    "77034434": {
+      "html_price": 49.99,
+      "discountRate": 50.0,
+      "price": 49.99,
+      "originalPrice": 99.99,
+      "notified_rate": null,
+      "name": "Gabardina clásica water repellent",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/77034434-99-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/abrigos-y-gabardinas/parkas/gabardina-clasica-water-repellent/77034434"
+    },
     "87050619": {
       "html_price": 15.99,
       "discountRate": 68.0,
@@ -2020,11 +2060,31 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87030252-99-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-paris-super-slim-fit_87040585"
     },
+    "87015954": {
+      "html_price": 13.99,
+      "discountRate": 65.0,
+      "price": 13.99,
+      "originalPrice": 39.99,
+      "notified_rate": null,
+      "name": "Camisa 100% lino cuello bowling",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87015954-04-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/lino/camisa-100-lino-cuello-bowling/87015954"
+    },
     "17021236": {
       "html_price": 37.99,
       "discountRate": 37.0,
       "price": 37.99,
       "originalPrice": 59.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
+    },
+    "87096343": {
+      "html_price": 37.99,
+      "discountRate": 46.0,
+      "price": 37.99,
+      "originalPrice": 69.99,
       "notified_rate": null,
       "name": null,
       "image_url": null,
@@ -2290,6 +2350,16 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17091141-01-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/bermudas/bermudas-slim-fit-chino-algodon/17091141"
     },
+    "87044406": {
+      "html_price": 9.99,
+      "discountRate": 67.0,
+      "price": 9.99,
+      "originalPrice": 29.99,
+      "notified_rate": null,
+      "name": "Camiseta slim fit COOLMAX®",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87044406-99-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisetas/slim-fit/camiseta-slim-fit-coolmax/87044406"
+    },
     "17011231": {
       "html_price": 20.99,
       "discountRate": 42.0,
@@ -2509,6 +2579,16 @@
       "name": "Camisa estampada cuello bowling",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17074447-06-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-estampada-cuello-bowling/17074447"
+    },
+    "17097761": {
+      "html_price": 15.99,
+      "discountRate": 30.0,
+      "price": 15.99,
+      "originalPrice": 22.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
     },
     "17085982": {
       "html_price": 71.99,
@@ -2770,16 +2850,6 @@
       "image_url": null,
       "url": null
     },
-    "17031204": {
-      "html_price": 8.99,
-      "discountRate": 70.0,
-      "price": 8.99,
-      "originalPrice": 29.99,
-      "notified_rate": 70.0,
-      "name": "Bolso tote algodón",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17031204-99-052?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/mochilas-y-bolsos/bolso-tote-algodon_17031204"
-    },
     "77010575": {
       "html_price": 31.99,
       "discountRate": 60.0,
@@ -2839,6 +2909,16 @@
       "name": "Pack pijama largo 100% algodón",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17055974-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/pijamas-y-ropa-interior/pack-pijama-largo-100-algodon/17055974"
+    },
+    "87045951": {
+      "html_price": 11.99,
+      "discountRate": 70.0,
+      "price": 11.99,
+      "originalPrice": 39.99,
+      "notified_rate": 70.0,
+      "name": "Camisa lino raya diplomática",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87045951-37-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/lino/camisa-lino-raya-diplomatica/87045951"
     },
     "87095919": {
       "html_price": 34.99,
@@ -3040,16 +3120,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87030587-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-milan-cuadro-gales/87080612"
     },
-    "87045951": {
-      "html_price": 11.99,
-      "discountRate": 70.0,
-      "price": 11.99,
-      "originalPrice": 39.99,
-      "notified_rate": 70.0,
-      "name": "Camisa lino raya diplomática",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87045951-37-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/lino/camisa-lino-raya-diplomatica/87045951"
-    },
     "77075972": {
       "html_price": 23.99,
       "discountRate": 40.0,
@@ -3109,6 +3179,16 @@
       "name": "Jeans Ben cropped tapered fit",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17011224-05-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/vaqueros/tapered/jeans-ben-cropped-tapered-fit/17071220"
+    },
+    "87047890": {
+      "html_price": 11.99,
+      "discountRate": 70.0,
+      "price": 11.99,
+      "originalPrice": 39.99,
+      "notified_rate": 70.0,
+      "name": "Camisa lyocell bolsillo",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87047890-56-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-lyocell-bolsillo/87047890"
     },
     "17038642": {
       "html_price": 39.99,
@@ -3470,6 +3550,16 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87004408-99-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisetas/slim-fit/camiseta-slim-fit-estampada-coolmax/87004408"
     },
+    "87037887": {
+      "html_price": 29.99,
+      "discountRate": 50.0,
+      "price": 29.99,
+      "originalPrice": 59.99,
+      "notified_rate": null,
+      "name": "Pantalón traje Salerno 100% lino slim fit",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87037887-05-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/de-traje/pantalon-traje-salerno-100-lino-slim-fit/87037887"
+    },
     "77037912": {
       "html_price": 59.99,
       "discountRate": 50.0,
@@ -3530,21 +3620,21 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17091247-01-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/regular-fit/camisa-lino-bolsillo/17091247"
     },
-    "87000619": {
-      "html_price": 24.99,
-      "discountRate": 46.0,
-      "price": 24.99,
-      "originalPrice": 45.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "77037926": {
       "html_price": 23.99,
       "discountRate": 40.0,
       "price": 23.99,
       "originalPrice": 39.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
+    },
+    "87000619": {
+      "html_price": 24.99,
+      "discountRate": 46.0,
+      "price": 24.99,
+      "originalPrice": 45.99,
       "notified_rate": null,
       "name": null,
       "image_url": null,
@@ -3620,6 +3710,16 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17031244-02-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/polos/manga-corta/polo-punto-calado-algodon/17031244"
     },
+    "77035149": {
+      "html_price": 23.99,
+      "discountRate": 76.0,
+      "price": 23.99,
+      "originalPrice": 99.99,
+      "notified_rate": 76.0,
+      "name": "Americana traje slim fit tejido comfort stretch",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/77035149-08-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-slim-fit-tejido-comfort-stretch/77035149"
+    },
     "87027888": {
       "html_price": 39.99,
       "discountRate": 20.0,
@@ -3669,6 +3769,16 @@
       "name": "Americana traje slim fit tejido comfort stretch",
       "image_url": "https://media.mangooutlet.com/is/image/punto/77080567-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-slim-fit-tejido-comfort-stretch/77010589"
+    },
+    "17087761": {
+      "html_price": 9.99,
+      "discountRate": 72.0,
+      "price": 9.99,
+      "originalPrice": 35.99,
+      "notified_rate": 72.0,
+      "name": "Camisa punto calado estructura rayas",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/17087761-56-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-punto-calado-estructura-rayas/17087761"
     },
     "17022925": {
       "html_price": 9.99,
@@ -3970,6 +4080,16 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17082912-02-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-lino-rayas/17082912"
     },
+    "87090598": {
+      "html_price": 17.99,
+      "discountRate": 61.0,
+      "price": 17.99,
+      "originalPrice": 45.99,
+      "notified_rate": null,
+      "name": "Jersey polo diseño rayas",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87090598-56-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/cardigans-y-jerseis/jerseis/jersey-polo-diseno-rayas/87090598"
+    },
     "87025917": {
       "html_price": 29.99,
       "discountRate": 50.0,
@@ -4250,16 +4370,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87027891-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americana-100-lana-fria-slim-fit_87027891"
     },
-    "17041243": {
-      "html_price": 11.99,
-      "discountRate": 70.0,
-      "price": 11.99,
-      "originalPrice": 39.99,
-      "notified_rate": 70.0,
-      "name": "Camisa algodón detalles calados",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17041243-03-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-algodon-detalles-calados/17041243"
-    },
     "87074399": {
       "html_price": 29.99,
       "discountRate": 70.0,
@@ -4280,16 +4390,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87030587-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-milan-slim-fit_87090601"
     },
-    "17051242": {
-      "html_price": 8.99,
-      "discountRate": 70.0,
-      "price": 8.99,
-      "originalPrice": 29.99,
-      "notified_rate": 70.0,
-      "name": "Polo punto calado cremallera",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17051242-08-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/polos/manga-corta/polo-punto-calado-cremallera/17051242"
-    },
     "17054416": {
       "html_price": 20.99,
       "discountRate": 65.0,
@@ -4299,6 +4399,16 @@
       "name": "Chaqueta vaquera 100% algodón",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17054416-02-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/chaquetas/chaquetas/chaqueta-vaquera-100-algodon/17054416"
+    },
+    "17051242": {
+      "html_price": 8.99,
+      "discountRate": 70.0,
+      "price": 8.99,
+      "originalPrice": 29.99,
+      "notified_rate": 70.0,
+      "name": "Polo punto calado cremallera",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/17051242-08-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/polos/manga-corta/polo-punto-calado-cremallera/17051242"
     },
     "17041241": {
       "html_price": 14.99,
@@ -4501,5 +4611,5 @@
       "url": null
     }
   },
-  "last_updated": "2026-06-25T18:29:42.010395+00:00"
+  "last_updated": "2026-06-25T20:32:03.531484+00:00"
 }
