@@ -10,16 +10,6 @@
       "image_url": null,
       "url": null
     },
-    "17041244": {
-      "html_price": 11.99,
-      "discountRate": 70.0,
-      "price": 11.99,
-      "originalPrice": 39.99,
-      "notified_rate": 75.0,
-      "name": "Camisa punto canalé",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17041244-56-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-punto-canale/17041244"
-    },
     "17056746": {
       "html_price": 11.99,
       "discountRate": 70.0,
@@ -29,6 +19,16 @@
       "name": "Corbata seda estampado",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17056746-52-052?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/corbatas-y-pajaritas/corbata-seda-estampado/17056746"
+    },
+    "17041244": {
+      "html_price": 11.99,
+      "discountRate": 70.0,
+      "price": 11.99,
+      "originalPrice": 39.99,
+      "notified_rate": 75.0,
+      "name": "Camisa punto canalé",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/17041244-56-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-punto-canale/17041244"
     },
     "87062894": {
       "html_price": 49.99,
@@ -1129,6 +1129,16 @@
       "name": null,
       "image_url": null,
       "url": null
+    },
+    "67015984": {
+      "html_price": 19.99,
+      "discountRate": 80.0,
+      "price": 19.99,
+      "originalPrice": 99.99,
+      "notified_rate": 80.0,
+      "name": "Americana traje slim fit tejido comfort stretch",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/67015984-69-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-slim-fit-tejido-comfort-stretch/67015984"
     },
     "87090573": {
       "html_price": 23.99,
@@ -3170,16 +3180,6 @@
       "image_url": null,
       "url": null
     },
-    "87049207": {
-      "html_price": 23.99,
-      "discountRate": 70.0,
-      "price": 23.99,
-      "originalPrice": 79.99,
-      "notified_rate": 70.0,
-      "name": "Americana traje mezcla lino lyocell",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87049207-05-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-mezcla-lino-lyocell/87049207"
-    },
     "87075990": {
       "html_price": 19.99,
       "discountRate": 50.0,
@@ -3379,16 +3379,6 @@
       "name": "Americana traje París super slim fit",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87060623-16-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-paris-super-slim-fit/87050628"
-    },
-    "17051130": {
-      "html_price": 19.99,
-      "discountRate": 75.0,
-      "price": 19.99,
-      "originalPrice": 79.99,
-      "notified_rate": 71.0,
-      "name": "Chaqueta water-repellent COOLMAX®",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17051130-37-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/chaquetas/chaquetas/chaqueta-water-repellent-coolmax/17051130"
     },
     "87090616": {
       "html_price": 63.99,
@@ -4621,5 +4611,5 @@
       "url": null
     }
   },
-  "last_updated": "2026-07-03T15:03:14.579966+00:00"
+  "last_updated": "2026-07-03T16:50:51.196590+00:00"
 }
