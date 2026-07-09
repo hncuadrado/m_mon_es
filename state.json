@@ -3450,16 +3450,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/77080567-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-slim-fit-tejido-comfort-stretch/77010589"
     },
-    "17087761": {
-      "html_price": 13.99,
-      "discountRate": 61.0,
-      "price": 13.99,
-      "originalPrice": 35.99,
-      "notified_rate": 72.0,
-      "name": "Camisa punto calado estructura rayas",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17087761-56-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-punto-calado-estructura-rayas/17087761"
-    },
     "17081136": {
       "html_price": 34.99,
       "discountRate": 50.0,
@@ -3469,6 +3459,16 @@
       "name": "Pantalón lino pinzas",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17081136-36-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/lino/pantalon-lino-pinzas/17081136"
+    },
+    "17087761": {
+      "html_price": 13.99,
+      "discountRate": 61.0,
+      "price": 13.99,
+      "originalPrice": 35.99,
+      "notified_rate": 72.0,
+      "name": "Camisa punto calado estructura rayas",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/17087761-56-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-punto-calado-estructura-rayas/17087761"
     },
     "17022925": {
       "html_price": 9.99,
@@ -4161,5 +4161,5 @@
       "url": null
     }
   },
-  "last_updated": "2026-07-08T22:56:35.753694+00:00"
+  "last_updated": "2026-07-09T00:05:27.751728+00:00"
 }
