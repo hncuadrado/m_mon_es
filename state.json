@@ -120,6 +120,16 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17031249-46-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/polos/manga-corta/polo-punto-fino-algodon/17031249"
     },
+    "77010642": {
+      "html_price": 20.99,
+      "discountRate": 42.0,
+      "price": 20.99,
+      "originalPrice": 35.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
+    },
     "17061229": {
       "html_price": 18.99,
       "discountRate": 37.0,
@@ -379,16 +389,6 @@
       "name": "Chaqueta acolchada relleno plumón y plumas",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87010588-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/chaquetas/chaquetas/chaqueta-acolchada-relleno-plumon-y-plumas/87010588"
-    },
-    "87014413": {
-      "html_price": 19.99,
-      "discountRate": 60.0,
-      "price": 19.99,
-      "originalPrice": 49.99,
-      "notified_rate": null,
-      "name": "Polo estructura tecnología COOLMAX®",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87014413-99-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/cardigans-y-jerseis/polo-estructura-tecnologia-coolmax/87014413"
     },
     "87095931": {
       "html_price": 20.99,
@@ -3450,16 +3450,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/77080567-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-slim-fit-tejido-comfort-stretch/77010589"
     },
-    "17081136": {
-      "html_price": 34.99,
-      "discountRate": 50.0,
-      "price": 34.99,
-      "originalPrice": 69.99,
-      "notified_rate": null,
-      "name": "Pantalón lino pinzas",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17081136-36-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/lino/pantalon-lino-pinzas/17081136"
-    },
     "17087761": {
       "html_price": 13.99,
       "discountRate": 61.0,
@@ -3469,6 +3459,16 @@
       "name": "Camisa punto calado estructura rayas",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17087761-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-punto-calado-estructura-rayas/17087761"
+    },
+    "17081136": {
+      "html_price": 34.99,
+      "discountRate": 50.0,
+      "price": 34.99,
+      "originalPrice": 69.99,
+      "notified_rate": null,
+      "name": "Pantalón lino pinzas",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/17081136-36-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/lino/pantalon-lino-pinzas/17081136"
     },
     "17022925": {
       "html_price": 9.99,
@@ -4010,16 +4010,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87030587-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-milan-slim-fit_87090601"
     },
-    "17051242": {
-      "html_price": 18.99,
-      "discountRate": 37.0,
-      "price": 18.99,
-      "originalPrice": 29.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "17054416": {
       "html_price": 20.99,
       "discountRate": 65.0,
@@ -4029,6 +4019,16 @@
       "name": "Chaqueta vaquera 100% algodón",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17054416-02-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/chaquetas/chaquetas/chaqueta-vaquera-100-algodon/17054416"
+    },
+    "17051242": {
+      "html_price": 18.99,
+      "discountRate": 37.0,
+      "price": 18.99,
+      "originalPrice": 29.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
     },
     "87007909": {
       "html_price": 34.99,
@@ -4161,5 +4161,5 @@
       "url": null
     }
   },
-  "last_updated": "2026-07-09T14:02:11.516530+00:00"
+  "last_updated": "2026-07-09T16:58:57.818818+00:00"
 }
