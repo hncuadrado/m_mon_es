@@ -280,16 +280,6 @@
       "image_url": null,
       "url": null
     },
-    "87067894": {
-      "html_price": 19.99,
-      "discountRate": 23.0,
-      "price": 19.99,
-      "originalPrice": 25.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "87077893": {
       "html_price": 15.99,
       "discountRate": 60.0,
@@ -999,6 +989,16 @@
       "name": "Jersey punto algodón microestructura",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87050599-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/cardigans-y-jerseis/jerseis/jersey-punto-algodon-microestructura_87050599"
+    },
+    "87029213": {
+      "html_price": 13.99,
+      "discountRate": 61.0,
+      "price": 13.99,
+      "originalPrice": 35.99,
+      "notified_rate": null,
+      "name": "Polo algodón punto estructura",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87029213-08-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/polos/manga-corta/polo-algodon-punto-estructura_87029213"
     },
     "87055984": {
       "html_price": 23.99,
@@ -2070,6 +2070,16 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87050619-TM-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-vaquera-bolsillo_87050619"
     },
+    "87017895": {
+      "html_price": 31.99,
+      "discountRate": 60.0,
+      "price": 31.99,
+      "originalPrice": 79.99,
+      "notified_rate": 60.0,
+      "name": "Pantalón mezcla lino pinzas",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87017895-02-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/regular-fit/pantalon-mezcla-lino-pinzas_87017895"
+    },
     "17016748": {
       "html_price": 24.99,
       "discountRate": 38.0,
@@ -2460,16 +2470,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87084405-28-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/sudaderas/sudadera-capucha-coolmax_87084405"
     },
-    "17051229": {
-      "html_price": 5.99,
-      "discountRate": 54.0,
-      "price": 5.99,
-      "originalPrice": 12.99,
-      "notified_rate": null,
-      "name": "Camiseta cuello pico",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17051229-99-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisetas/slim-fit/camiseta-cuello-pico/17051229"
-    },
     "17061273": {
       "html_price": 11.99,
       "discountRate": 70.0,
@@ -2479,6 +2479,16 @@
       "name": "Camisa manga corta estampada",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17061273-68-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-manga-corta-estampada/17061273"
+    },
+    "17051229": {
+      "html_price": 5.99,
+      "discountRate": 54.0,
+      "price": 5.99,
+      "originalPrice": 12.99,
+      "notified_rate": null,
+      "name": "Camiseta cuello pico",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/17051229-99-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisetas/slim-fit/camiseta-cuello-pico/17051229"
     },
     "17091290": {
       "html_price": 17.99,
@@ -2900,16 +2910,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87010599-08-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-lana-franela-cuadros_87010599"
     },
-    "77047918": {
-      "html_price": 58.99,
-      "discountRate": 65.0,
-      "price": 58.99,
-      "originalPrice": 169.99,
-      "notified_rate": 65.0,
-      "name": "Americana cruzada franela lana virgen",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/77047918-30-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-casual/americana-cruzada-franela-lana-virgen_77047918"
-    },
     "87000600": {
       "html_price": 19.99,
       "discountRate": 50.0,
@@ -2919,6 +2919,16 @@
       "name": "Camisa regular fit algodón cuadros",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87000600-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/regular-fit/camisa-regular-fit-algodon-cuadros_87000600"
+    },
+    "77047918": {
+      "html_price": 58.99,
+      "discountRate": 65.0,
+      "price": 58.99,
+      "originalPrice": 169.99,
+      "notified_rate": 65.0,
+      "name": "Americana cruzada franela lana virgen",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/77047918-30-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-casual/americana-cruzada-franela-lana-virgen_77047918"
     },
     "87045984": {
       "html_price": 24.99,
@@ -3129,6 +3139,16 @@
       "name": "Camisa lyocell bolsillo",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87047890-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-lyocell-bolsillo_87047890"
+    },
+    "87007900": {
+      "html_price": 14.99,
+      "discountRate": 75.0,
+      "price": 14.99,
+      "originalPrice": 59.99,
+      "notified_rate": 75.0,
+      "name": "Bermudas slim fit 100% lino",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87007900-56-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/bermudas/bermudas-slim-fit-100-lino_87007900"
     },
     "17016744": {
       "html_price": 21.99,
@@ -5001,5 +5021,5 @@
       "url": null
     }
   },
-  "last_updated": "2026-07-24T23:57:05.226774+00:00"
+  "last_updated": "2026-07-25T07:10:08.203441+00:00"
 }
