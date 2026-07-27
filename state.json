@@ -760,16 +760,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17041248-01-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/lisas/camisa-100-lino-slim-fit/17041248"
     },
-    "17098265": {
-      "html_price": 35.99,
-      "discountRate": 60.0,
-      "price": 35.99,
-      "originalPrice": 89.99,
-      "notified_rate": 56.0,
-      "name": "Pantalón 100% lana virgen regular fit rayas",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17098265-96-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/regular-fit/pantalon-100-lana-virgen-regular-fit-rayas/17098265"
-    },
     "77045148": {
       "html_price": 19.99,
       "discountRate": 80.0,
@@ -779,6 +769,16 @@
       "name": "Americana traje slim fit tejido comfort stretch",
       "image_url": "https://media.mangooutlet.com/is/image/punto/77035149-08-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-slim-fit-tejido-comfort-stretch_77045148"
+    },
+    "17098265": {
+      "html_price": 35.99,
+      "discountRate": 60.0,
+      "price": 35.99,
+      "originalPrice": 89.99,
+      "notified_rate": 56.0,
+      "name": "Pantalón 100% lana virgen regular fit rayas",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/17098265-96-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/regular-fit/pantalon-100-lana-virgen-regular-fit-rayas/17098265"
     },
     "17031237": {
       "html_price": 11.99,
@@ -940,6 +940,16 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87050599-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/cardigans-y-jerseis/jerseis/jersey-punto-algodon-microestructura_87050599"
     },
+    "77010588": {
+      "html_price": 44.99,
+      "discountRate": 65.0,
+      "price": 44.99,
+      "originalPrice": 129.99,
+      "notified_rate": 65.0,
+      "name": "Americana traje slim fit 100% lana virgen",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/77010588-56-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-slim-fit-100-lana-virgen_77010588"
+    },
     "87055984": {
       "html_price": 23.99,
       "discountRate": 60.0,
@@ -1030,16 +1040,6 @@
       "image_url": null,
       "url": null
     },
-    "67079220": {
-      "html_price": 8.99,
-      "discountRate": 85.0,
-      "price": 8.99,
-      "originalPrice": 59.99,
-      "notified_rate": 85.0,
-      "name": "Sobrecamisa slim fit tencel lino",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/67079220-28-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-slim-fit-tencel-lino/67079220"
-    },
     "77022535": {
       "html_price": 13.99,
       "discountRate": 80.0,
@@ -1049,6 +1049,16 @@
       "name": "Sobrecamisa mezcla tencel lino",
       "image_url": "https://media.mangooutlet.com/is/image/punto/77022535-95-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-mezcla-tencel-lino/77022535"
+    },
+    "67079220": {
+      "html_price": 8.99,
+      "discountRate": 85.0,
+      "price": 8.99,
+      "originalPrice": 59.99,
+      "notified_rate": 85.0,
+      "name": "Sobrecamisa slim fit tencel lino",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/67079220-28-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-slim-fit-tencel-lino/67079220"
     },
     "77080568": {
       "html_price": 24.99,
@@ -1620,16 +1630,6 @@
       "image_url": null,
       "url": null
     },
-    "87087907": {
-      "html_price": 23.99,
-      "discountRate": 20.0,
-      "price": 23.99,
-      "originalPrice": 29.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "87020602": {
       "html_price": 17.99,
       "discountRate": 50.0,
@@ -1760,16 +1760,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87014399-55-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/de-traje/pantalon-traje-turin-100-lana_87070614"
     },
-    "87060607": {
-      "html_price": 20.99,
-      "discountRate": 30.0,
-      "price": 20.99,
-      "originalPrice": 29.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "87054410": {
       "html_price": 15.99,
       "discountRate": 60.0,
@@ -1779,6 +1769,16 @@
       "name": "Jersey punto algodón",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87054410-50-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/cardigans-y-jerseis/jerseis/jersey-punto-algodon/87054410"
+    },
+    "87060607": {
+      "html_price": 20.99,
+      "discountRate": 30.0,
+      "price": 20.99,
+      "originalPrice": 29.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
     },
     "87065922": {
       "html_price": 59.99,
@@ -2659,16 +2659,6 @@
       "name": "Sudadera algodón regular fit cremallera",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17064426-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/sudaderas/sudadera-algodon-regular-fit-cremallera/17064426"
-    },
-    "87020586": {
-      "html_price": 24.99,
-      "discountRate": 50.0,
-      "price": 24.99,
-      "originalPrice": 49.99,
-      "notified_rate": null,
-      "name": "Pantalón franela micro pata de gallo",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87020585-08-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/regular-fit/pantalon-franela-micro-pata-de-gallo_87020586"
     },
     "17041211": {
       "html_price": 11.99,
@@ -3630,6 +3620,16 @@
       "image_url": null,
       "url": null
     },
+    "87087907": {
+      "html_price": 23.99,
+      "discountRate": 20.0,
+      "price": 23.99,
+      "originalPrice": 29.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
+    },
     "17037900": {
       "html_price": 13.99,
       "discountRate": 65.0,
@@ -3749,16 +3749,6 @@
       "name": "Pantalón traje Milán slim fit",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17071234-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/de-traje/pantalon-traje-milan-slim-fit/17061190"
-    },
-    "17091247": {
-      "html_price": 11.99,
-      "discountRate": 70.0,
-      "price": 11.99,
-      "originalPrice": 39.99,
-      "notified_rate": 70.0,
-      "name": "Camisa lino bolsillo",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17091247-01-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/regular-fit/camisa-lino-bolsillo/17091247"
     },
     "17037763": {
       "html_price": 24.99,
@@ -4440,16 +4430,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87035925-99-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-amalfi-100-lino-slim-fit/87075920"
     },
-    "17079206": {
-      "html_price": 11.99,
-      "discountRate": 60.0,
-      "price": 11.99,
-      "originalPrice": 29.99,
-      "notified_rate": 60.0,
-      "name": "Cinturón 100% piel abatanada",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17079206-99-052?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/cinturones/cinturon-100-piel-abatanada/17079206"
-    },
     "87057891": {
       "html_price": 24.99,
       "discountRate": 31.0,
@@ -4791,5 +4771,5 @@
       "url": null
     }
   },
-  "last_updated": "2026-07-26T23:27:56.711392+00:00"
+  "last_updated": "2026-07-27T01:08:01.433244+00:00"
 }
