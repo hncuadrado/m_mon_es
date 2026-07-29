@@ -890,16 +890,6 @@
       "image_url": null,
       "url": null
     },
-    "77022535": {
-      "html_price": 13.99,
-      "discountRate": 80.0,
-      "price": 13.99,
-      "originalPrice": 69.99,
-      "notified_rate": 76.0,
-      "name": "Sobrecamisa mezcla tencel lino",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/77022535-95-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-mezcla-tencel-lino/77022535"
-    },
     "67079220": {
       "html_price": 8.99,
       "discountRate": 85.0,
@@ -909,6 +899,16 @@
       "name": "Sobrecamisa slim fit tencel lino",
       "image_url": "https://media.mangooutlet.com/is/image/punto/67079220-28-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-slim-fit-tencel-lino/67079220"
+    },
+    "77022535": {
+      "html_price": 13.99,
+      "discountRate": 80.0,
+      "price": 13.99,
+      "originalPrice": 69.99,
+      "notified_rate": 76.0,
+      "name": "Sobrecamisa mezcla tencel lino",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/77022535-95-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-mezcla-tencel-lino/77022535"
     },
     "77080568": {
       "html_price": 24.99,
@@ -1160,16 +1160,6 @@
       "image_url": null,
       "url": null
     },
-    "67015984": {
-      "html_price": 19.99,
-      "discountRate": 80.0,
-      "price": 19.99,
-      "originalPrice": 99.99,
-      "notified_rate": 80.0,
-      "name": "Americana traje slim fit tejido comfort stretch",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/67015984-69-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-slim-fit-tejido-comfort-stretch_67015984"
-    },
     "77000592": {
       "html_price": 29.99,
       "discountRate": 50.0,
@@ -1179,6 +1169,16 @@
       "name": "Pantalón traje slim fit tejido comfort stretch",
       "image_url": "https://media.mangooutlet.com/is/image/punto/77000592-52-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/de-traje/pantalon-traje-slim-fit-tejido-comfort-stretch_77000592"
+    },
+    "67015984": {
+      "html_price": 19.99,
+      "discountRate": 80.0,
+      "price": 19.99,
+      "originalPrice": 99.99,
+      "notified_rate": 80.0,
+      "name": "Americana traje slim fit tejido comfort stretch",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/67015984-69-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-slim-fit-tejido-comfort-stretch_67015984"
     },
     "87090573": {
       "html_price": 39.99,
@@ -2310,16 +2310,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17071225-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-100-lino-ligera_17071225"
     },
-    "87075928": {
-      "html_price": 11.99,
-      "discountRate": 70.0,
-      "price": 11.99,
-      "originalPrice": 39.99,
-      "notified_rate": 70.0,
-      "name": "Camisa 100% lino raya diplomática",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87075928-01-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-100-lino-raya-diplomatica_87075928"
-    },
     "17091141": {
       "html_price": 17.99,
       "discountRate": 40.0,
@@ -3440,6 +3430,26 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17071149-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/slim-fit/pantalon-lino-slim-fit_17071149"
     },
+    "87015941": {
+      "html_price": 11.99,
+      "discountRate": 25.0,
+      "price": 11.99,
+      "originalPrice": 15.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
+    },
+    "87004408": {
+      "html_price": 14.99,
+      "discountRate": 50.0,
+      "price": 14.99,
+      "originalPrice": 29.99,
+      "notified_rate": null,
+      "name": "Camiseta slim fit estampada COOLMAX®",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87004408-99-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisetas/slim-fit/camiseta-slim-fit-estampada-coolmax_87004408"
+    },
     "87080599": {
       "html_price": 24.99,
       "discountRate": 50.0,
@@ -4210,16 +4220,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87050610-50-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/slim-fit/camisa-traje-slim-fit-mil-rayas_87050610"
     },
-    "87090601": {
-      "html_price": 37.99,
-      "discountRate": 62.0,
-      "price": 37.99,
-      "originalPrice": 99.99,
-      "notified_rate": 77.0,
-      "name": "Americana traje Milán slim fit",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87030587-56-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-milan-slim-fit_87090601"
-    },
     "87082889": {
       "html_price": 19.99,
       "discountRate": 50.0,
@@ -4229,6 +4229,16 @@
       "name": "Camisa regular fit algodón fil-à-fil",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87082889-50-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/regular-fit/camisa-regular-fit-algodon-fil-a-fil_87082889"
+    },
+    "87090601": {
+      "html_price": 37.99,
+      "discountRate": 62.0,
+      "price": 37.99,
+      "originalPrice": 99.99,
+      "notified_rate": 77.0,
+      "name": "Americana traje Milán slim fit",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87030587-56-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-milan-slim-fit_87090601"
     },
     "17054416": {
       "html_price": 20.99,
@@ -4461,5 +4471,5 @@
       "url": null
     }
   },
-  "last_updated": "2026-07-29T12:55:56.000314+00:00"
+  "last_updated": "2026-07-29T15:05:42.117257+00:00"
 }
