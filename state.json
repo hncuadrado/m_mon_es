@@ -2080,21 +2080,21 @@
       "image_url": null,
       "url": null
     },
-    "87089211": {
-      "html_price": 27.99,
-      "discountRate": 22.0,
-      "price": 27.99,
-      "originalPrice": 35.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
-    },
     "87070607": {
       "html_price": 31.99,
       "discountRate": 20.0,
       "price": 31.99,
       "originalPrice": 39.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
+    },
+    "87089211": {
+      "html_price": 27.99,
+      "discountRate": 22.0,
+      "price": 27.99,
+      "originalPrice": 35.99,
       "notified_rate": null,
       "name": null,
       "image_url": null,
@@ -2380,16 +2380,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87010599-08-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-lana-franela-cuadros_87010599"
     },
-    "87000600": {
-      "html_price": 19.99,
-      "discountRate": 50.0,
-      "price": 19.99,
-      "originalPrice": 39.99,
-      "notified_rate": null,
-      "name": "Camisa regular fit algodón cuadros",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87000600-56-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/regular-fit/camisa-regular-fit-algodon-cuadros_87000600"
-    },
     "77047918": {
       "html_price": 58.99,
       "discountRate": 65.0,
@@ -2399,6 +2389,16 @@
       "name": "Americana cruzada franela lana virgen",
       "image_url": "https://media.mangooutlet.com/is/image/punto/77047918-30-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-casual/americana-cruzada-franela-lana-virgen_77047918"
+    },
+    "87000600": {
+      "html_price": 19.99,
+      "discountRate": 50.0,
+      "price": 19.99,
+      "originalPrice": 39.99,
+      "notified_rate": null,
+      "name": "Camisa regular fit algodón cuadros",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87000600-56-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/regular-fit/camisa-regular-fit-algodon-cuadros_87000600"
     },
     "87045984": {
       "html_price": 24.99,
@@ -3910,6 +3910,16 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87015933-05-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/de-traje/pantalon-traje-milan-slim-fit/87015933"
     },
+    "17071142": {
+      "html_price": 23.99,
+      "discountRate": 40.0,
+      "price": 23.99,
+      "originalPrice": 39.99,
+      "notified_rate": null,
+      "name": null,
+      "image_url": null,
+      "url": null
+    },
     "17025976": {
       "html_price": 15.99,
       "discountRate": 60.0,
@@ -3939,16 +3949,6 @@
       "name": "Sobrecamisa 100% algodón franela cuadros",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87000610-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-100-algodon-franela-cuadros_87000610"
-    },
-    "77000571": {
-      "html_price": 38.99,
-      "discountRate": 30.0,
-      "price": 38.99,
-      "originalPrice": 55.99,
-      "notified_rate": null,
-      "name": null,
-      "image_url": null,
-      "url": null
     },
     "87025929": {
       "html_price": 71.99,
@@ -3990,16 +3990,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87030587-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-milan-slim-fit_87090601"
     },
-    "17054416": {
-      "html_price": 20.99,
-      "discountRate": 65.0,
-      "price": 20.99,
-      "originalPrice": 59.99,
-      "notified_rate": null,
-      "name": "Chaqueta vaquera 100% algodón",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17054416-02-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/chaquetas/chaquetas/chaqueta-vaquera-100-algodon_17054416"
-    },
     "17051242": {
       "html_price": 18.99,
       "discountRate": 37.0,
@@ -4009,6 +3999,16 @@
       "name": null,
       "image_url": null,
       "url": null
+    },
+    "17054416": {
+      "html_price": 20.99,
+      "discountRate": 65.0,
+      "price": 20.99,
+      "originalPrice": 59.99,
+      "notified_rate": null,
+      "name": "Chaqueta vaquera 100% algodón",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/17054416-02-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/chaquetas/chaquetas/chaqueta-vaquera-100-algodon_17054416"
     },
     "87059210": {
       "html_price": 39.99,
@@ -4191,5 +4191,5 @@
       "url": null
     }
   },
-  "last_updated": "2026-08-01T14:04:00.363887+00:00"
+  "last_updated": "2026-08-01T15:34:37.128508+00:00"
 }
