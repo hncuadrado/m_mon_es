@@ -700,16 +700,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/67008271-28-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-slim-fit-algodon-lino_67008271"
     },
-    "87005941": {
-      "html_price": 15.99,
-      "discountRate": 60.0,
-      "price": 15.99,
-      "originalPrice": 39.99,
-      "notified_rate": 75.0,
-      "name": "Pantalón popelín algodón",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87005941-56-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/regular-fit/pantalon-popelin-algodon_87005941"
-    },
     "87025932": {
       "html_price": 34.99,
       "discountRate": 65.0,
@@ -719,6 +709,16 @@
       "name": "Americana traje París super slim fit",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87030252-99-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-paris-super-slim-fit/87025932"
+    },
+    "87005941": {
+      "html_price": 15.99,
+      "discountRate": 60.0,
+      "price": 15.99,
+      "originalPrice": 39.99,
+      "notified_rate": 75.0,
+      "name": "Pantalón popelín algodón",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87005941-56-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/pantalones/regular-fit/pantalon-popelin-algodon_87005941"
     },
     "17005151": {
       "html_price": 13.99,
@@ -2010,16 +2010,6 @@
       "image_url": null,
       "url": null
     },
-    "17051229": {
-      "html_price": 5.99,
-      "discountRate": 54.0,
-      "price": 5.99,
-      "originalPrice": 12.99,
-      "notified_rate": null,
-      "name": "Camiseta cuello pico",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17051229-99-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisetas/slim-fit/camiseta-cuello-pico/17051229"
-    },
     "17061273": {
       "html_price": 11.99,
       "discountRate": 70.0,
@@ -2029,6 +2019,16 @@
       "name": "Camisa manga corta estampada",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17061273-68-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-manga-corta-estampada/17061273"
+    },
+    "17051229": {
+      "html_price": 5.99,
+      "discountRate": 54.0,
+      "price": 5.99,
+      "originalPrice": 12.99,
+      "notified_rate": null,
+      "name": "Camiseta cuello pico",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/17051229-99-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisetas/slim-fit/camiseta-cuello-pico/17051229"
     },
     "87045926": {
       "html_price": 17.99,
@@ -3910,16 +3910,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87074399-99-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-relaxed-fit_87074399"
     },
-    "87082889": {
-      "html_price": 19.99,
-      "discountRate": 50.0,
-      "price": 19.99,
-      "originalPrice": 39.99,
-      "notified_rate": null,
-      "name": "Camisa regular fit algodón fil-à-fil",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87082889-50-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/regular-fit/camisa-regular-fit-algodon-fil-a-fil_87082889"
-    },
     "87090601": {
       "html_price": 37.99,
       "discountRate": 62.0,
@@ -3929,6 +3919,16 @@
       "name": "Americana traje Milán slim fit",
       "image_url": "https://media.mangooutlet.com/is/image/punto/87030587-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/americanas/americanas-de-vestir/americana-traje-milan-slim-fit_87090601"
+    },
+    "87082889": {
+      "html_price": 19.99,
+      "discountRate": 50.0,
+      "price": 19.99,
+      "originalPrice": 39.99,
+      "notified_rate": null,
+      "name": "Camisa regular fit algodón fil-à-fil",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87082889-50-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/regular-fit/camisa-regular-fit-algodon-fil-a-fil_87082889"
     },
     "17054416": {
       "html_price": 20.99,
@@ -4121,5 +4121,5 @@
       "url": null
     }
   },
-  "last_updated": "2026-08-02T15:35:04.736083+00:00"
+  "last_updated": "2026-08-02T16:50:52.748147+00:00"
 }
