@@ -1,15 +1,5 @@
 {
   "products": {
-    "17056746": {
-      "html_price": 11.99,
-      "discountRate": 70.0,
-      "price": 11.99,
-      "originalPrice": 39.99,
-      "notified_rate": 70.0,
-      "name": "Corbata seda estampado",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17056746-52-052?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/corbatas-y-pajaritas/corbata-seda-estampado/17056746"
-    },
     "17041244": {
       "html_price": 11.99,
       "discountRate": 70.0,
@@ -19,6 +9,16 @@
       "name": "Camisa punto canalé",
       "image_url": "https://media.mangooutlet.com/is/image/punto/17041244-56-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/manga-corta/camisa-punto-canale/17041244"
+    },
+    "17056746": {
+      "html_price": 11.99,
+      "discountRate": 70.0,
+      "price": 11.99,
+      "originalPrice": 39.99,
+      "notified_rate": 70.0,
+      "name": "Corbata seda estampado",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/17056746-52-052?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/corbatas-y-pajaritas/corbata-seda-estampado/17056746"
     },
     "87062894": {
       "html_price": 49.99,
@@ -1550,16 +1550,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17091220-99-021?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/pijamas-y-ropa-interior/pack-2-slips-basicos/17091220"
     },
-    "87054410": {
-      "html_price": 15.99,
-      "discountRate": 60.0,
-      "price": 15.99,
-      "originalPrice": 39.99,
-      "notified_rate": null,
-      "name": "Jersey punto algodón",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87054410-50-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/cardigans-y-jerseis/jerseis/jersey-punto-algodon/87054410"
-    },
     "87060607": {
       "html_price": 20.99,
       "discountRate": 30.0,
@@ -1569,6 +1559,16 @@
       "name": null,
       "image_url": null,
       "url": null
+    },
+    "87054410": {
+      "html_price": 15.99,
+      "discountRate": 60.0,
+      "price": 15.99,
+      "originalPrice": 39.99,
+      "notified_rate": null,
+      "name": "Jersey punto algodón",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/87054410-50-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/cardigans-y-jerseis/jerseis/jersey-punto-algodon/87054410"
     },
     "87065922": {
       "html_price": 59.99,
@@ -3600,16 +3600,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/17082912-02-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/sobrecamisas/sobrecamisa-lino-rayas/17082912"
     },
-    "87090598": {
-      "html_price": 22.99,
-      "discountRate": 50.0,
-      "price": 22.99,
-      "originalPrice": 45.99,
-      "notified_rate": null,
-      "name": "Jersey polo diseño rayas",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/87090598-56-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/cardigans-y-jerseis/jerseis/jersey-polo-diseno-rayas_87090598"
-    },
     "17016750": {
       "html_price": 11.99,
       "discountRate": 70.0,
@@ -3870,16 +3860,6 @@
       "image_url": "https://media.mangooutlet.com/is/image/punto/87082889-50-002?wid=240&fit=crop,1",
       "url": "https://www.mangooutlet.com/es/es/p/hombre/camisas/regular-fit/camisa-regular-fit-algodon-fil-a-fil_87082889"
     },
-    "17054416": {
-      "html_price": 20.99,
-      "discountRate": 65.0,
-      "price": 20.99,
-      "originalPrice": 59.99,
-      "notified_rate": null,
-      "name": "Chaqueta vaquera 100% algodón",
-      "image_url": "https://media.mangooutlet.com/is/image/punto/17054416-02-002?wid=240&fit=crop,1",
-      "url": "https://www.mangooutlet.com/es/es/p/hombre/chaquetas/chaquetas/chaqueta-vaquera-100-algodon_17054416"
-    },
     "17051242": {
       "html_price": 18.99,
       "discountRate": 37.0,
@@ -3889,6 +3869,16 @@
       "name": null,
       "image_url": null,
       "url": null
+    },
+    "17054416": {
+      "html_price": 20.99,
+      "discountRate": 65.0,
+      "price": 20.99,
+      "originalPrice": 59.99,
+      "notified_rate": null,
+      "name": "Chaqueta vaquera 100% algodón",
+      "image_url": "https://media.mangooutlet.com/is/image/punto/17054416-02-002?wid=240&fit=crop,1",
+      "url": "https://www.mangooutlet.com/es/es/p/hombre/chaquetas/chaquetas/chaqueta-vaquera-100-algodon_17054416"
     },
     "87059210": {
       "html_price": 39.99,
@@ -4051,5 +4041,5 @@
       "url": null
     }
   },
-  "last_updated": "2026-08-02T22:24:25.995593+00:00"
+  "last_updated": "2026-08-02T23:26:37.493180+00:00"
 }
